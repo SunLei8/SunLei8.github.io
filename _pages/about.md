@@ -17,7 +17,10 @@ My [research interests](research) lie in THMC coupling modelling and computation
 
 
 <!-- NEWS =============================-->
+<html>
+
 ## _News:_
+<div style="height:200px;width:720px;overflow:auto;">
 
   * [05/2023] Dr Sun presented in the PolyU Research Student Conference (PRSC 2023).
 
@@ -31,7 +34,7 @@ My [research interests](research) lie in THMC coupling modelling and computation
 
   *  [08/2022] Congratulations to Dr Sun's successful delivery of the presentation in the [17th U. S. National Congress on Computational Mechanics](https://17.usnccm.org/).
   
-
+</div>
 
 &nbsp;
 &nbsp;
