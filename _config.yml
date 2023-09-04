@@ -56,8 +56,10 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
+Wechart:
+  username               : "SUN--L"
 mastodon:
-  username               : "fosstodon.org/@jayrobw"
+  username               : # "fosstodon.org/@jayrobw"
 twitter:
   username               : 
 facebook:
