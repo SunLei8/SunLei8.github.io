@@ -1,10 +1,16 @@
 /* ==========================================================================
    BASE ELEMENTS
    ========================================================================== */
+html {
+  /* sticky footer fix */
+  position: relative;
+  min-height: 100%;
+}
 
 body {
   margin: 0;
   padding: 0;
+  padding-bottom: 9em;
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
@@ -118,7 +124,7 @@ a {
 
 /* code */
 
-tt, code, kbd, samp, pre {
+tt, code, samp, pre {
   font-family: $monospace;
 }
 
@@ -140,9 +146,20 @@ td > code {
   box-shadow: $box-shadow;
 
   &:before, &:after {
-    letter-spacing: -0.2em;
+    letter-spacing: -0.5em;
     content: "\00a0"; /* non-breaking space*/
   }
+}
+
+/* keyboard tag */
+
+kbd {
+  font-family: $monospace;
+  font-size: $type-size-6;
+  border-radius: 3px;
+  padding: 1px 2px 0;
+  border: 1px solid;
+  background-color: $code-background-color;
 }
 
 /* horizontal rule */
@@ -151,7 +168,7 @@ hr {
   display: block;
   margin: 1em 0;
   border: 0;
-  border-top: 1px solid #000;
+  border-top: 1px solid $border-color;
 }
 
 /* lists */
