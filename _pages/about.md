@@ -20,23 +20,23 @@ My [research interests](research) lie in THMC coupling modelling and computation
 ## _News:_
 
 <div class="container">
-  <div style="height:300px;width:720px;overflow:auto;">
+  <div style="height:200px;width:720px;overflow:auto;">
 
-  <li style="font-size:18px"> [05/2023] Dr Sun presented in the PolyU Research Student Conference (PRSC 2023). </li>
+  * [05/2023] Dr Sun presented in the PolyU Research Student Conference (PRSC 2023).
 
- <li style="font-size:18px"> [05/2023] Dr Sun 
+ * [05/2023] Dr Sun 
 presented in the PolyU Research Student Conference 
-(PRSC 2023). </li>
+(PRSC 2023).
 
- <li style="font-size:18px"> [05/2023] Dr Sun 
+ * [05/2023] Dr Sun 
 presented in the PolyU Research Student Conference 
-(PRSC 2023). </li>
+(PRSC 2023).
 
-  <li style="font-size:18px"> [03/2023] <a href="https://doi.org/10.1016/j.ijrmms.2023.105392"target="_blank">New paper</a> on prediction of tunnel squeezing in soft sedimentary rocks by geoelectrical data. </li>
+  * [03/2023] <a href="https://doi.org/10.1016/j.ijrmms.2023.105392"target="_blank">New paper</a> on prediction of tunnel squeezing in soft sedimentary rocks by geoelectrical data.
 
-  <li style="font-size:18px"> [01/2023] Dr Sun hosted the online seminar "A New Era of Deep Space Exploration" presneted by Prof James Head, Prof Wei Yang, and Prof Xuhai Tang on Jan 18, 2023 </li>
+  * [01/2023] Dr Sun hosted the online seminar "A New Era of Deep Space Exploration" presneted by Prof James Head, Prof Wei Yang, and Prof Xuhai Tang on Jan 18, 2023.
 
-  <li style="font-size:18px">  [08/2022] Congratulations to Dr Sun's successful delivery of the presentation in the [17th U. S. National Congress on Computational Mechanics](https://17.usnccm.org/). </li>
+  *  [08/2022] Congratulations to Dr Sun's successful delivery of the presentation in the [17th U. S. National Congress on Computational Mechanics](https://17.usnccm.org/).
   </div>
 </div>
 
