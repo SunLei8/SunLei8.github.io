@@ -15,8 +15,6 @@ I earned my BEng from Sichuan University in 2014 and PhD from Wuhan University i
 My [research interests](research) lie in THMC coupling modelling and computational mechanics, which are applied to most modern critical energy and storage applications (e.g., CO2 geological storage, geothermal energy extraction, radioactive waste storage, and oil/gas exploitation). Recently, He is trying to develop a robust THMC coupling model based on the combined finite-discrete element method ([FDEM](software)).
 
 
-<centre class="third">
-    <img src="/images/sichuan.png" high = 100> 
-    <img src="//images/wuhan.png" high = 100> 
-    <img src="/images/UT.png" high = 100"> 
+<centre>
+    <img src="/images/Ulogo.png" high = 100> 
 <centre>
