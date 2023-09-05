@@ -23,8 +23,7 @@ My [research interests](research) lie in THMC coupling modelling and computation
 <div style="height:200px;width:720px;overflow:auto;">
 
   <li>  [07/2023] Congratulations to Dr Sun's successful delivery of the presentation in the 
-  <a href="https://17.usnccm.org/">17th U. S. National Congress on Computational Mechanics</
-  a>. </li>
+  <a href="https://17.usnccm.org/">17th U. S. National Congress on Computational Mechanics</a>. </li>
 
   <li> [05/2023] Dr Sun presented in <a href="https://geogroup.utoronto.ca/2023-hqp-symposium/">The 2023 HQP Symposium</a>. </li>
   
