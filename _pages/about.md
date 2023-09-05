@@ -20,7 +20,7 @@ My [research interests](research) lie in THMC coupling modelling and computation
 
 ## _News:_
 
-<div textarea style="height:200px;width:720px;overflow:auto;">
+<div style="height:200px;width:720px;overflow:auto;">
 
   <li> [05/2023] Dr Sun presented in the PolyU Research Student Conference (PRSC 2023). </li>
   
@@ -28,7 +28,7 @@ My [research interests](research) lie in THMC coupling modelling and computation
 
   <li> [05/2023] Dr Sun presented in the PolyU Research Student Conference (PRSC 2023). </li>
 
-  - [03/2023] [New paper](https://17.usnccm.org/) on prediction of tunnel squeezing in soft sedimentary rocks by geoelectrical data.
+  <li> [03/2023] [New paper](https://17.usnccm.org/) on prediction of tunnel squeezing in soft sedimentary rocks by geoelectrical data. </li>
 
   <li> [01/2023] <b><a href="https://doi.org/10.1016/j.ijrmms.2023.105392"target="_blank">New paper <i class="fa fa-external-link"></i></a></b> Dr Sun hosted the online seminar "A New Era of Deep Space Exploration" presneted by Prof James Head, Prof Wei Yang, and Prof Xuhai Tang on Jan 18, 2023. </li>
 
