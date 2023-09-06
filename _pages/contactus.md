@@ -171,8 +171,7 @@ var sdm_recaptcha_opt = {"site_key":"6LfkPekUAAAAAIx12y2BG2XaIABcR4cF48n8XZ5n"};
 <!-- start preloader -->
 <!-- / end preloader -->
 
-
-
+<!-- delete header and nav-->
 
 
 
@@ -309,16 +308,9 @@ var sdm_recaptcha_opt = {"site_key":"6LfkPekUAAAAAIx12y2BG2XaIABcR4cF48n8XZ5n"};
         </div>
 	</div>
 
+<!-- delete footer -->
 
-
-
-
-
-
-
-
-
-
+</div><!-- #page -->
 
 <style>form.fluent_form_2 .wpf_has_custom_css.ff-btn-submit { background-color:rgba(0, 0, 0, 1);border-color:rgba(255, 255, 255, 1);color:#ffffff; }form.fluent_form_2 .wpf_has_custom_css.ff-btn-submit:hover { background-color:rgba(241, 133, 33, 1);border-color:rgba(255, 255, 255, 1);color:#FFFFFF; } </style><link rel='stylesheet' id='fluent-form-styles-css' href='https://geogroup.utoronto.ca/wp-content/plugins/fluentform/assets/css/fluent-forms-public.css?ver=5.0.0' type='text/css' media='all' />
 <link rel='stylesheet' id='fluentform-public-default-css' href='https://geogroup.utoronto.ca/wp-content/plugins/fluentform/assets/css/fluentform-public-default.css?ver=5.0.0' type='text/css' media='all' />
