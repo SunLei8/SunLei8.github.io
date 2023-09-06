@@ -287,30 +287,30 @@ var sdm_recaptcha_opt = {"site_key":"6LfkPekUAAAAAIx12y2BG2XaIABcR4cF48n8XZ5n"};
 		data-callback='fluentFormrecaptchaSuccessCallback'></div></div></div></div><div class='ff-el-group    ff-el-input--content'><div class='ff-el-form-check ff-el-tc'><label aria-label='terms & conditions' class='ff-el-form-check-label ff_tc_label' for=terms-n-condition_d855e4f4c5d39bb650406e8188485ac6><span class='ff_tc_checkbox'><input type="checkbox" name="terms-n-condition" class="ff-el-form-check-input" data-name="terms-n-condition" id="terms-n-condition_d855e4f4c5d39bb650406e8188485ac6"  value='on' aria-invalid='false' aria-required=true></span> <div class='ff_t_c'><p>I have read and agree to the <a href="https://geogroup.utoronto.ca/privacy-policy/" target="_blank" rel="noopener">Privacy Policy</a>.</p></div></label></div></div><div class='ff-el-group ff-text-left ff_submit_btn_wrapper'><button type="submit" class="ff-btn ff-btn-submit ff-btn-md ff_btn_style wpf_has_custom_css" >Submit Form</button></div></fieldset></form><div id='fluentform_2_errors' class='ff-errors-in-stack ff_form_instance_2_1 ff-form-loading_errors ff_form_instance_2_1_errors'></div></div>        <script type="text/javascript">
             window.fluent_form_ff_form_instance_2_1 = {"id":"2","settings":{"layout":{"labelPlacement":"top","helpMessagePlacement":"with_label","errorMessagePlacement":"inline","asteriskPlacement":"asterisk-left"},"id":"39","restrictions":{"denyEmptySubmission":{"enabled":false}}},"form_instance":"ff_form_instance_2_1","form_id_selector":"fluentform_2","rules":{"names[first_name]":{"required":{"value":true,"message":"This field is required"}},"names[middle_name]":{"required":{"value":false,"message":"This field is required"}},"names[last_name]":{"required":{"value":true,"message":"This field is required"}},"email":{"required":{"value":true,"message":"This field is required"},"email":{"value":true,"message":"This field must contain a valid email"}},"subject":{"required":{"value":true,"message":"This field is required"}},"message":{"required":{"value":true,"message":"This field is required"}},"recaptcha":[],"terms-n-condition":{"required":{"value":true,"message":"This field is required"}}}};
                     </script>
-                </div> 0
+                </div>
 
-        		</div> 1
-				</div> 2
-						</div> 3
+        		</div>
+				</div>
+						</div>
 					</div>
 		</div>
-								</div> 4
+								</div>
 					</div>
 		</section>
-									</div> 5
+									</div>
 			</div>
 					</div>
-			</div><!-- .entry-content --> 6
+			</div><!-- .entry-content -->
 
 </article><!-- #post-76 -->
 				</div>
 			</div>
         </div>
-	</div> 11
+<!--	</div>   -->
 
 <!-- delete footer 修改 -->
 
-</div><!-- #page --> 111
+</div><!-- #page -->
 
 <style>form.fluent_form_2 .wpf_has_custom_css.ff-btn-submit { background-color:rgba(0, 0, 0, 1);border-color:rgba(255, 255, 255, 1);color:#ffffff; }form.fluent_form_2 .wpf_has_custom_css.ff-btn-submit:hover { background-color:rgba(241, 133, 33, 1);border-color:rgba(255, 255, 255, 1);color:#FFFFFF; } </style><link rel='stylesheet' id='fluent-form-styles-css' href='https://geogroup.utoronto.ca/wp-content/plugins/fluentform/assets/css/fluent-forms-public.css?ver=5.0.0' type='text/css' media='all' />
 <link rel='stylesheet' id='fluentform-public-default-css' href='https://geogroup.utoronto.ca/wp-content/plugins/fluentform/assets/css/fluentform-public-default.css?ver=5.0.0' type='text/css' media='all' />
