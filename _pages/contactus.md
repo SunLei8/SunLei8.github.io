@@ -171,9 +171,11 @@ var sdm_recaptcha_opt = {"site_key":"6LfkPekUAAAAAIx12y2BG2XaIABcR4cF48n8XZ5n"};
 <!-- start preloader -->
 <!-- / end preloader -->
 
-<!-- delete header and nav  修改  -->
+<!-- delete header and nav  修改-->
 
 
+
+    
     
 	<div class="sciencexlite-content-area">
 		<div class="container">
@@ -212,7 +214,7 @@ var sdm_recaptcha_opt = {"site_key":"6LfkPekUAAAAAIx12y2BG2XaIABcR4cF48n8XZ5n"};
 						<div class="elementor-element elementor-element-d902b75 elementor-widget elementor-widget-text-editor" data-id="d902b75" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<h4>University of Toronto (St. George Campus)<br />Department of Civil &amp; Mineral Engineering</h4><p><b>Dr Lei Sun<br />Galbraith Building<br />35 St. George Street<br />Toronto, ON<br />M5S 1A4</b></p><p><b>Email: </b><a style="font-weight: bold;" href="mailto:giovanni.grasselli@utoronto.ca">giovanni.grasselli@utoronto.ca</a><br /><span style="font-weight: bold; font-size: 1.156rem;">Phone: </span><a style="font-weight: bold;" href="http://tel:416-978-0125" target="_blank" rel="noopener">416-978-0125</a><span style="font-weight: bold; font-size: 1.156rem;"><br /></span><span style="font-size: 1.156rem;"><b>Office: GB327</b></span></p>					</div>
+				<h4>University of Toronto (St. George Campus)<br />Department of Civil &amp; Mineral Engineering</h4><p><b>Giovanni Grasselli<br />Galbraith Building<br />35 St. George Street<br />Toronto, ON<br />M5S 1A4</b></p><p><b>Email: </b><a style="font-weight: bold;" href="mailto:giovanni.grasselli@utoronto.ca">giovanni.grasselli@utoronto.ca</a><br /><span style="font-weight: bold; font-size: 1.156rem;">Phone: </span><a style="font-weight: bold;" href="http://tel:416-978-0125" target="_blank" rel="noopener">416-978-0125</a><span style="font-weight: bold; font-size: 1.156rem;"><br /></span><span style="font-size: 1.156rem;"><b>Office: GB327</b></span></p>					</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-bbb1571 elementor-widget elementor-widget-spacer" data-id="bbb1571" data-element_type="widget" data-widget_type="spacer.default">
@@ -226,29 +228,22 @@ var sdm_recaptcha_opt = {"site_key":"6LfkPekUAAAAAIx12y2BG2XaIABcR4cF48n8XZ5n"};
 				<div class="elementor-widget-container">
 					<div class="elementor-social-icons-wrapper elementor-grid">
 							<span class="elementor-grid-item">
-					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-animation-push elementor-repeater-item-098e28d" href="https://www.facebook.com/sun.lei.9678/" target="_blank">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-animation-push elementor-repeater-item-098e28d" href="https://www.facebook.com/grasselligeomech/" target="_blank">
 						<span class="elementor-screen-only">Facebook</span>
 						<i class="fab fa-facebook"></i>					</a>
 				</span>
-
-
 							<span class="elementor-grid-item">
 					<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-animation-push elementor-repeater-item-5ffdee0" href="https://twitter.com/GrasselliGeomec" target="_blank">
 						<span class="elementor-screen-only">Twitter</span>
 						<i class="fab fa-twitter"></i>					</a>
 				</span>
-
-
-
 							<span class="elementor-grid-item">
 					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-animation-push elementor-repeater-item-2cc4cb2" href="https://www.youtube.com/channel/UCnJn3qlalSb7muYDhjNBGIA/" target="_blank">
 						<span class="elementor-screen-only">Youtube</span>
 						<i class="fab fa-youtube"></i>					</a>
 				</span>
-
-
 							<span class="elementor-grid-item">
-					<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-animation-push elementor-repeater-item-102e364" href="https://www.linkedin.com/in/lei-sun-1a0525247/" target="_blank">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-animation-push elementor-repeater-item-102e364" href="https://ca.linkedin.com/in/grasselli-geomechanics-group" target="_blank">
 						<span class="elementor-screen-only">Linkedin</span>
 						<i class="fab fa-linkedin"></i>					</a>
 				</span>
