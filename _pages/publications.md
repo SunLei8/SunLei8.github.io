@@ -8,7 +8,7 @@ author_profile: true
 # bbb
 
 <!-- 注释comment的内容 -->
-{% comment &}
+
  {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
  {% endif %}
@@ -18,7 +18,6 @@ author_profile: true
  {% for post in site.publications reversed %}
   {% include archive-single.html %}
  {% endfor %}
-{% endcomment &}
 
 
 <sup>*</sup> Equal authorship
