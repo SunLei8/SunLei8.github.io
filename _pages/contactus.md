@@ -4,8 +4,6 @@ title: "Contact Us"
 ---
 
 
-
-<!doctype html>
 <html lang="en-US">
 <head>
     <meta charset="UTF-8">
@@ -174,45 +172,10 @@ var sdm_recaptcha_opt = {"site_key":"6LfkPekUAAAAAIx12y2BG2XaIABcR4cF48n8XZ5n"};
 <!-- / end preloader -->
 
 
-<div class="site-main">
-<div id="page" class="site ">
 
-        <header class="sabbi-site-head">
-        <nav class="navbar navbar-white navbar-kawsa  " role="navigation">
-            <div class="container">
-                <div class="navbar-header">
-                    <button aria-controls="navbar" aria-expanded="false" class="navbar-toggle collapsed" data-target="#navbar" data-toggle="collapse" type="button"><span class="sr-only"> Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span></button> 
-                    
-                    
-                                            <div class="logo">
-                        <a class="navbar-brand" href="https://geogroup.utoronto.ca/" title="Grasselli&#039;s Geomechanics Group" data-scroll>
-                            <a href="https://geogroup.utoronto.ca/" class="custom-logo-link" rel="home"><img width="2518" height="745" src="https://i0.wp.com/geogroup.utoronto.ca/wp-content/uploads/GG_Logo_banner_2358x745.png?fit=2518%2C745&amp;ssl=1" class="custom-logo" alt="Grasselli&#039;s Geomechanics Group" decoding="async" srcset="https://i0.wp.com/geogroup.utoronto.ca/wp-content/uploads/GG_Logo_banner_2358x745.png?w=2518&amp;ssl=1 2518w, https://i0.wp.com/geogroup.utoronto.ca/wp-content/uploads/GG_Logo_banner_2358x745.png?resize=300%2C89&amp;ssl=1 300w, https://i0.wp.com/geogroup.utoronto.ca/wp-content/uploads/GG_Logo_banner_2358x745.png?resize=1024%2C303&amp;ssl=1 1024w, https://i0.wp.com/geogroup.utoronto.ca/wp-content/uploads/GG_Logo_banner_2358x745.png?resize=768%2C227&amp;ssl=1 768w, https://i0.wp.com/geogroup.utoronto.ca/wp-content/uploads/GG_Logo_banner_2358x745.png?resize=1536%2C454&amp;ssl=1 1536w, https://i0.wp.com/geogroup.utoronto.ca/wp-content/uploads/GG_Logo_banner_2358x745.png?resize=2048%2C606&amp;ssl=1 2048w, https://i0.wp.com/geogroup.utoronto.ca/wp-content/uploads/GG_Logo_banner_2358x745.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/geogroup.utoronto.ca/wp-content/uploads/GG_Logo_banner_2358x745.png?w=1920&amp;ssl=1 1920w" sizes="(max-width: 2518px) 100vw, 2518px" /></a>                        </a>
-                        </div>
-                    
-                </div>
-                <div class="navbar-collapse collapse sabbi-navbar-collapse  navbar-nav-hov_underline" id="navbar">
-                    
-	                                        <div class="nav-btn-wrap"> 
-					<a href="/international-opportunities" class="btn btn-primary pull-right"> International <br> Opportunities  </a> &nbsp; &nbsp; &nbsp;
-					
-						<a href="/upcoming_events" class="btn btn-primary pull-right">Upcoming<br>Events</a> &nbsp; &nbsp; &nbsp; 
-					
-					<a href="/join-our-team" class="btn btn-primary btn-primary-center pull-right">Join Our Team</a> 
-					
-					</div>
-                    					                   
-                    <ul id="menu-main-nav" class="nav navbar-nav navbar-right"><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-2329" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2329"><a title="News" href="https://geogroup.utoronto.ca/news/">News</a></li>
-<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-81" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a title="The Transparent Lab" href="https://geogroup.utoronto.ca/the-transparent-lab/">The Transparent Lab</a></li>
-<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-83" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-83"><a title="People" href="https://geogroup.utoronto.ca/people/">People</a></li>
-<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-84" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84"><a title="Publications" href="https://geogroup.utoronto.ca/publications/">Publications</a></li>
-<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1560" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1560"><a title="Software" href="https://geogroup.utoronto.ca/software/">Software</a></li>
-<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-3851" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3851"><a title="Global FDEM 2022" href="https://geogroup.utoronto.ca/global-fdem-2022/">Global FDEM 2022</a></li>
-<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-97" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97"><a title="RockEng09" href="https://geogroup.utoronto.ca/rockeng09/">RockEng09</a></li>
-<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-76 current_page_item menu-item-80 active"><a title="Contact Us" href="https://geogroup.utoronto.ca/contact-us/">Contact Us</a></li>
-</ul>                </div>
-            </div>
-        </nav><!-- /.navbar -->
-    </header><!-- #masthead -->
+
+
+
     
     
 	<div class="sciencexlite-content-area">
