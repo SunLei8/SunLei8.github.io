@@ -6,8 +6,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-#  - title: "Teaching"
-#    url: /teaching/
+  - title: "Teaching"
+    url: /teaching/
 
   - title: "Software"
     url: /software/
@@ -17,3 +17,6 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "Contact Us"
+    url: /contact us/
