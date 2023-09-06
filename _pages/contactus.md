@@ -171,24 +171,22 @@ var sdm_recaptcha_opt = {"site_key":"6LfkPekUAAAAAIx12y2BG2XaIABcR4cF48n8XZ5n"};
 <!-- start preloader -->
 <!-- / end preloader -->
 
+
+
+<div class="site-main">
+<div id="page" class="site ">
 <!-- delete header and nav  修改-->
-
-
-
-    
-    
 	<div class="sciencexlite-content-area">
 		<div class="container">
 			<div class="row">
 			    <div class="col-md-12">
-					
+								
 <article id="post-76" class="post-76 page type-page status-publish hentry">
-
 	<div class="entry-content">
-				<div data-elementor-type="wp-page" data-elementor-id="76" class="elementor elementor-76">
-						<div class="elementor-inner">
+		<div data-elementor-type="wp-page" data-elementor-id="76" class="elementor elementor-76">
+			<div class="elementor-inner">
 				<div class="elementor-section-wrap">
-									<section class="has_eae_slider elementor-section elementor-top-section elementor-element elementor-element-c93a613 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c93a613" data-element_type="section">
+					<section class="has_eae_slider elementor-section elementor-top-section elementor-element elementor-element-c93a613 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c93a613" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="has_eae_slider elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-00e7d13" data-id="00e7d13" data-element_type="column">
@@ -275,9 +273,7 @@ var sdm_recaptcha_opt = {"site_key":"6LfkPekUAAAAAIx12y2BG2XaIABcR4cF48n8XZ5n"};
 				</div>
 				<div class="elementor-element elementor-element-24139e3 eael-fluentform-form-button-left eael-fluentform-form-button-custom elementor-widget elementor-widget-eael-fluentform" data-id="24139e3" data-element_type="widget" data-widget_type="eael-fluentform.default">
 				<div class="elementor-widget-container">
-			        <div class="eael-contact-form eael-fluent-form-wrapper clearfix eael-contact-form-align-default">
-
-            
+			        <div class="eael-contact-form eael-fluent-form-wrapper clearfix eael-contact-form-align-default"> 
             <div class='fluentform fluentform_wrapper_2'><form data-form_id="2" id="fluentform_2" class="frm-fluent-form fluent_form_2 ff-el-form-top ff_form_instance_2_1 ff-form-loading" data-form_instance="ff_form_instance_2_1" method="POST" ><fieldset style="border: none!important;margin: 0!important;padding: 0!important;background-color: transparent!important;
                                  box-shadow: none!important;outline: none!important; min-inline-size: auto;">
                     <legend class="ff_screen_reader_title" style="display: block; margin: 0!important;padding: 0!important;height: 0!important;text-indent: -999999px;width: 0!important;">Contact Form</legend><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="201"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p><input type='hidden' name='__fluent_form_embded_post_id' value='76' /><input type="hidden" id="_fluentform_2_fluentformnonce" name="_fluentform_2_fluentformnonce" value="11efa6400a" /><input type="hidden" name="_wp_http_referer" value="/contact-us/" /><div data-type="name-element" data-name="names" class=" ff-field_container ff-name-field-wrapper" ><div class='ff-t-container'><div class='ff-t-cell '><div class='ff-el-group'><div class="ff-el-input--label ff-el-is-required asterisk-left"><label for='ff_2_1_names_first_name_' aria-label="First Name">First Name</label> </div><div class='ff-el-input--content'><input type="text" name="names[first_name]" id="ff_2_1_names_first_name_" class="ff-el-form-control" placeholder="First Name" aria-invalid="false" aria-required=false></div></div></div><div class='ff-t-cell '><div class='ff-el-group'><div class="ff-el-input--label ff-el-is-required asterisk-left"><label for='ff_2_1_names_last_name_' aria-label="Last Name">Last Name</label> </div><div class='ff-el-input--content'><input type="text" name="names[last_name]" id="ff_2_1_names_last_name_" class="ff-el-form-control" placeholder="Last Name" aria-invalid="false" aria-required=false></div></div></div></div></div><div class='ff-el-group'><div class="ff-el-input--label ff-el-is-required asterisk-left"><label for='ff_2_1_email' aria-label="Email">Email</label> </div><div class='ff-el-input--content'><input type="email" name="email" id="ff_2_1_email" class="ff-el-form-control" placeholder="Email Address" data-name="email"  aria-invalid="false" aria-required=true></div></div><div class='ff-el-group'><div class="ff-el-input--label ff-el-is-required asterisk-left"><label for='ff_2_1_subject' aria-label="Subject">Subject</label> </div><div class='ff-el-input--content'><input type="text" name="subject" class="ff-el-form-control" placeholder="Subject" data-name="subject" id="ff_2_1_subject"  aria-invalid="false" aria-required=true></div></div><div class='ff-el-group'><div class="ff-el-input--label ff-el-is-required asterisk-left"><label for='ff_2_1_message' aria-label="Your Message">Your Message</label> </div><div class='ff-el-input--content'><textarea aria-invalid="false" aria-required=true name="message" id="ff_2_1_message" class="ff-el-form-control" placeholder="Your Message" rows="4" cols="2" data-name="message" ></textarea></div></div><div class='ff-el-group ' ><div class='ff-el-input--content'><div data-fluent_id='2' name='g-recaptcha-response'><div
@@ -288,7 +284,6 @@ var sdm_recaptcha_opt = {"site_key":"6LfkPekUAAAAAIx12y2BG2XaIABcR4cF48n8XZ5n"};
             window.fluent_form_ff_form_instance_2_1 = {"id":"2","settings":{"layout":{"labelPlacement":"top","helpMessagePlacement":"with_label","errorMessagePlacement":"inline","asteriskPlacement":"asterisk-left"},"id":"39","restrictions":{"denyEmptySubmission":{"enabled":false}}},"form_instance":"ff_form_instance_2_1","form_id_selector":"fluentform_2","rules":{"names[first_name]":{"required":{"value":true,"message":"This field is required"}},"names[middle_name]":{"required":{"value":false,"message":"This field is required"}},"names[last_name]":{"required":{"value":true,"message":"This field is required"}},"email":{"required":{"value":true,"message":"This field is required"},"email":{"value":true,"message":"This field must contain a valid email"}},"subject":{"required":{"value":true,"message":"This field is required"}},"message":{"required":{"value":true,"message":"This field is required"}},"recaptcha":[],"terms-n-condition":{"required":{"value":true,"message":"This field is required"}}}};
                     </script>
                 </div>
-
         		</div>
 				</div>
 						</div>
@@ -306,7 +301,7 @@ var sdm_recaptcha_opt = {"site_key":"6LfkPekUAAAAAIx12y2BG2XaIABcR4cF48n8XZ5n"};
 				</div>
 			</div>
         </div>
-<!--	</div>   -->
+	</div>
 
 <!-- delete footer 修改 -->
 
