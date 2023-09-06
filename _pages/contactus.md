@@ -3,6 +3,25 @@ permalink: /contact us/
 title: "Contact Us"
 ---
 
+
+
+<div class="map" style="width:50%; hight:300px; float:left">map
+ <iframe loading="lazy"
+	src="https://maps.google.com/maps?q=Galbraith%20Building&#038;t=m&#038;z=15&#038;output=embed&#038;iwloc=near"
+	title="Galbraith Building"
+	aria-label="Galbraith Building"
+ ></iframe>
+</div>
+
+
+
+
+
+
+
+
+
+
 								
 <article id="post-76" class="post-76 page type-page status-publish hentry">
 	<div class="entry-content">
