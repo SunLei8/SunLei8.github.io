@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 
-
-/* {% if author.googlescholar %}
+{% comment &}
+ {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
@@ -17,8 +17,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-*/
-<!--<sup>*</sup> Equal authorship-->
+{% endcomment &}
+
+
+<sup>*</sup> Equal authorship
 
 
 ## 2023
