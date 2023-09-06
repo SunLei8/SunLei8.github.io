@@ -4,47 +4,49 @@ title: "Contact Us"
 ---
 
 
-<div style="widht:800px; height:500">
+<div style="widht:800px; height:300">
    <!-- map -->
-   <div style="float:left;width:500px">
+   <div style="float:left;width:400px">
       <iframe src="https://maps.google.com/maps?q=Galbraith%20Building&#038;t=m&#038;z=15&#038;output=embed&#038;iwloc=near"
 	          title="Galbraith Building"
 	          aria-label="Galbraith Building"
-	          width="500"
-	          height="500"
+	          width="400"
+	          height="300"
       ></iframe>
    </div>
 
    <!-- intro -->
-   <div style="float:right;width:250px">
-     <h4>University of Toronto (St. George Campus)<br/>Department of Civil &amp; Mineral Engineering</h4><p><b>Lei Sun<br />Galbraith Building<br />35 St. George Street<br />Toronto, ON<br />M5S 1A4</b></p><p><b>Email: </b><a style="font-weight: 
-      bold;" href="mailto:leo.sun@mail.utoronto.ca">leo.sun@mail.utoronto.ca</a><br /><span style="font-weight: bold; font-size: 1.156rem;">Phone: </span><a style="font-weight: bold;" href="http://tel:416-978-0125" target="_blank" rel="noopener">416-978-0125</a><span style="font-weight: bold; font-size: 1.156rem;"><br /></span><span style="font-size: 1.156rem;"><b>Office: GB313F</b></span></p>			
+   <div style="float:right;width:350px">
+     <h4>University of Toronto (St. George Campus)<br/>	 Department of Civil &amp; Mineral Engineering</h4><p>
+	 <b>Lei Sun<br/> Galbraith Building<br />35 St. George Street<br /> Toronto, ON<br /> M5S 1A4</b>
+	 </p><p><b>Email: </b>leo.sun@mail.utoronto.ca<br />
+	 Phone: 416-978-0125<br />
+	 Office: GB313F</b></p>			
    </div>
 
    <!-- logo -->
-   <div style="float:right;width:200px">
+   <div style="float:right;width:400px">
 		<span class="elementor-grid-item">
-	       <a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-animation-push 
-              elementor-repeater-item-098e28d" href="https://www.facebook.com/grasselligeomech/" target="_blank">
-		   <span class="elementor-screen-only">Facebook</span>
+	       <a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-animation-push elementor-repeater-item-098e28d" href="https://www.facebook.com/grasselligeomech/" target="_blank">
+		   <span class="elementor-screen-only"></span>
 		   <i class="fab fa-facebook"></i>					</a>
         </span>
 		<span class="elementor-grid-item">
 	        <a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-animation-push 
               elementor-repeater-item-5ffdee0" href="https://twitter.com/GrasselliGeomec" target="_blank">
-		    <span class="elementor-screen-only">Twitter</span>
+		    <span class="elementor-screen-only"></span>
 		    <i class="fab fa-twitter"></i>					</a>
         </span>
 		<span class="elementor-grid-item">
 	       <a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-animation-push 
                      elementor-repeater-item-2cc4cb2" href="https://www.youtube.com/channel/UCnJn3qlalSb7muYDhjNBGIA/" target="_blank">
-		    <span class="elementor-screen-only">Youtube</span>
+		    <span class="elementor-screen-only"></span>
 		    <i class="fab fa-youtube"></i>					</a>
         </span>
 		<span class="elementor-grid-item">
 	        <a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-animation-push 
                       elementor-repeater-item-102e364" href="https://ca.linkedin.com/in/grasselli-geomechanics-group" target="_blank">
-		    <span class="elementor-screen-only">Linkedin</span>
+		    <span class="elementor-screen-only"></span>
 		    <i class="fab fa-linkedin"></i>					</a>
         </span>
 	</div>
@@ -217,18 +219,17 @@ title: "Contact Us"
 									</div>
 			</div>
 					</div>
-			</div><!-- .entry-content -->
+			</div>
 
-</article><!-- #post-76 -->
+</article>
 				</div>
 			</div>
         </div>
 	</div>
 
-<!-- delete footer 修改 -->
+</div>
 
-</div><!-- #page -->
-
+-->
 
 
 
