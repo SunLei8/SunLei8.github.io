@@ -3,13 +3,6 @@ permalink: /contact us/
 title: "Contact Us"
 ---
 
-
-<div id="page" class="site ">
-<!-- delete header and nav  修改-->
-	<div class="sciencexlite-content-area">
-		<div class="container">
-			<div class="row">
-			    <div class="col-md-6">
 								
 <article id="post-76" class="post-76 page type-page status-publish hentry">
 	<div class="entry-content">
@@ -128,14 +121,6 @@ title: "Contact Us"
 			</div><!-- .entry-content -->
 
 </article><!-- #post-76 -->
-				</div>
-			</div>
-        </div>
-	</div>
-
-<!-- delete footer 修改 -->
-
-</div><!-- #page -->
 
 
 <!--
