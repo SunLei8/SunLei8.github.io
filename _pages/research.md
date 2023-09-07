@@ -60,6 +60,8 @@ html {
 		<ul style="font-family:verdana" style="list-style-type:none">
 			<li><a href="#ResearchCTHM">Crogenic THM model</a></li>
 			<li><a href="#ResearchFC">Frost cracking</a></li>
+      <li><a href="#ResearchSlope">Rock slope stability analysis</a></li>
+      <li><a href="#ResearchFlow">Flow and transport in fractured porous media</a></li>
 		</ul>
 	</div>
 </div>
@@ -74,7 +76,7 @@ html {
     <img src="/images/research/1U.gif" alt="" width="300"/>  
     </center>
     <p> 
-    (Accepted paper in JRMGE) We developed a coupled modeling approach to simulate cryogenic thermo-hydro-mechanical (THM) processes associated with a freezing medium, which is then implemented in the combined finite-discrete element method code (FDEM) for multi-physics simulation. The cryogenic THM model can well predict the evolution of strongly coupled processes observed in frozen media (e.g., heat transfer, water migration, and frost heave deformation), while also capturing, as emergent properties of the model, important phenomena (e.g., latent heat, cryogenic suction, ice expansion and distinct three-zone distribution) caused by water/ice phase change at laboratory and field scales, which are hardly to be all revealed by existing THM models.  <a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.</p>
+    We developed a coupled modeling approach to simulate cryogenic thermo-hydro-mechanical (THM) processes associated with a freezing medium, which is then implemented in the combined finite-discrete element method code (FDEM) for multi-physics simulation. The cryogenic THM model can well predict the evolution of strongly coupled processes observed in frozen media (e.g., heat transfer, water migration, and frost heave deformation), while also capturing, as emergent properties of the model, important phenomena (e.g., latent heat, cryogenic suction, ice expansion and distinct three-zone distribution) caused by water/ice phase change at laboratory and field scales, which are hardly to be all revealed by existing THM models.  <a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.</p>
   </div>
 </div>
 <hr>
@@ -90,16 +92,49 @@ html {
     <img src="/images/research/24.png" alt="" width="300"/>
     </center>
     <p> 
-    Frost crack evolution induced by cyclic freeze-thaw is responsible for rock  deteriorationin cold regions and poses major threats to the stability and safety of infrastructure in rock.<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.</p>
+    Frost crack evolution induced by cyclic freeze-thaw is responsible for rock  deteriorationin cold regions and poses major threats to the stability and safety of infrastructure in rock. We present experimental and numerical works aimed at investigating the frost crack evolution in fissured rock masses, as well as the interaction between frost cracks. Results show that frost cracks initiate at the pre-existing fissure tips and propagate under the freeze-thaw treatment. Moreover, the frost crack evolution is significantly influenced by external stress conditions and frost crack interactions, forming several typical propagation patterns (e.g., deflection, coplanar and butterfly shape, etc.). <a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.</p>
+  </div>
+</div>
+<hr>
+
+
+<div class="container">
+  <div style="width:800px;text-align:justify;">
+    <center><h2 id="ResearchSlope">Rock slope stability analysis</h2>
+    <img src="/images/research/2background.png" alt="" width="600"/><br>
+    </center>
+    <p> 
+    Description<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.</p>
   </div>
 </div>
 <hr>
 
 
 
-1. Crogenic Thermal-Hydraulic-Mechanical Model
 
-2. Frost cracking process
+<div class="container">
+  <div style="width:800px;text-align:justify;">
+    <center><h2 id="ResearchFlow">Flow and transport in fractured porous media</h2></center>
+    <h3>digital image based fluid flow</h3>
+    <center>
+    <img src="/images/research/41.png" alt="" width="600"/><br>
+    </center>
+    <p> 
+    Description<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.</p>
+  <h3>local grid refinement</h3>
+  <center>
+  <img src="/images/research/42.png" alt="" width="600"/><br>
+  </center>
+  <p> 
+  Description<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.</p>
+  </div>
+</div>
+<hr>
+
+
+
+
+
 
 * Rock slope stability analysis
 
