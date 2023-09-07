@@ -17,13 +17,14 @@ title: "Contact Us"
 
    <!-- intro -->
    <div style="float:right;width:400px">
-     <font size ="3.5">
+     <font size ="3">
 	 <b>University of Toronto (St. George Campus)<br/>	 Department of Civil &amp; Mineral Engineering</b><p><br/>
 	 Lei Sun<br/> Galbraith Building<br />35 St. George Street<br /> Toronto, ON<br /> M5S 1A4
 	 </p><p>Email:  leo.sun@mail.utoronto.ca<br />
 	 Phone: 416-978-0125<br />
-	 Office: GB313F</p></p>
-	 </font>	
+	 Office: GB313F</p>
+	 </font>
+	<!-- logo -->
 	<span class="elementor-grid-item">
        <a class="elementor-icon elementor-social-icon elementor-social-icon-facebook 
 elementor-animation-push elementor-repeater-item-098e28d" href="https://www.
@@ -54,14 +55,8 @@ elementor-animation-push
 grasselli-geomechanics-group" target="_blank">
 	    <span class="elementor-screen-only"></span>
 	    <i class="fab fa-linkedin"></i>					</a>
-    </span>
-	 
-	 		
+    </span>			
    </div>
-
-   <!-- logo -->
-   <div style="float:right;width:300px">
-	</div>
 </div>
 
 
