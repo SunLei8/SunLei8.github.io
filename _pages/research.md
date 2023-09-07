@@ -77,7 +77,7 @@ html {
 
 <div class="container">
   <div class="row">
-    <div class="col-12 text-center">
+    <div class="width:900px;text-center">
     <h2 id="Research0">Progressive damage and associated seismicity on a laboratory fault</h2>
     <img src="images/shear_damage.jpg" alt="" width="600"/><br><br>
     <img src="images/shear_seismic.jpg" alt="" width="600"/><br><br>
