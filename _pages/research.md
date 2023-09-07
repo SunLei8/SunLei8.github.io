@@ -58,17 +58,8 @@ html {
 <div class="sidenav">
 	<div id="navbar-collapse-03" class="collapse navbar-collapse">
 		<ul style="font-family:verdana" style="list-style-type:none">
-			<li><a href="#ResearchImpact">Asteroid impact</a></li>
-			<li><a href="#ResearchSandColumn">Particle motion under micro-CT</a></li>
-			<li><a href="#Research0">Chemical reaction under micro-CT</a></li>
-			<li><a href="#Research1">GBM FDEM</a></li>
-			<li><a href="#Research2">4D fault evolution</a></li>
-			<li><a href="#Research3">Machine learning AE analysis</a></li>
-			<li><a href="#Research4">Fracture surface roughness</a></li>
-			<li><a href="#Research5">Simulation of AE</a></li>
-			<li><a href="#Research6">Simulation of HF</a></li>
-			<li><a href="#Research8">Simulation of joint under impact</a></li>
-			<li><a href="#Research9">Ultrasonic tomography with FDEM</a></li>
+			<li><a href="#ResearchCTHM">Crogenic THM model</a></li>
+			<li><a href="#ResearchFC">Frost cracking</a></li>
 		</ul>
 	</div>
 </div>
@@ -77,17 +68,29 @@ html {
 <!-- content -->
 <div class="container">
   <div style="width:800px;text-align:justify;">
-    <center><h2 id="Research0">Crogenic Thermal-Hydraulic-Mechanical Model</h2>
-    <img src="/images/research/CTHM.png" alt="" width="800"/><br>
-    <img src="/images/research/T.avi" alt="" width="350"/>
-    <img src="/images/research/U.avi" alt="" width="350"/>
+    <center><h2 id="ResearchCTHM">Crogenic Thermal-Hydraulic-Mechanical Model</h2>
+    <img src="/images/research/1CTHM.png" alt="" width="700"/><br>
+    <img src="/images/research/1U.avi" alt="" width="300"/>    
     </center>
-    <p> (Accepted paper in JRMGE) We developed a coupled modeling approach to simulate cryogenic thermo-hydro-mechanical (THM) processes associated with a freezing medium, which is then implemented in the combined finite-discrete element method code (FDEM) for multi-physics simulation.  <a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.</p>
+    <p> 
+    (Accepted paper in JRMGE) We developed a coupled modeling approach to simulate cryogenic thermo-hydro-mechanical (THM) processes associated with a freezing medium, which is then implemented in the combined finite-discrete element method code (FDEM) for multi-physics simulation. The cryogenic THM model can well predict the evolution of strongly coupled processes observed in frozen media (e.g., heat transfer, water migration, and frost heave deformation), while also capturing, as emergent properties of the model, important phenomena (e.g., latent heat, cryogenic suction, ice expansion and distinct three-zone distribution) caused by water/ice phase change at laboratory and field scales, which are hardly to be all revealed by existing THM models.  <a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.</p>
   </div>
 </div>
 <hr>
 
 
+<div class="container">
+  <div style="width:800px;text-align:justify;">
+    <center><h2 id="ResearchCTHM">Crogenic Thermal-Hydraulic-Mechanical Model</h2>
+    <img src="/images/research/2background.png" alt="" width="600"/><br>
+    <img src="/images/research/21.png" alt="" width="200"/><br>
+    <img src="/images/research/22.png" alt="" width="200"/><br>
+    </center>
+    <p> 
+    Frost crack evolution induced by cyclic freeze-thaw is responsible for rock  deteriorationin cold regions and poses major threats to the stability and safety of infrastructure in rock.<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.</p>
+  </div>
+</div>
+<hr>
 
 
 
