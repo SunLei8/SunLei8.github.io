@@ -9,14 +9,14 @@ title: "Contact Us"
       <iframe src="https://maps.google.com/maps?q=Galbraith%20Building&#038;t=m&#038;z=15&#038;output=embed&#038;iwloc=near"
 	          title="Galbraith Building"
 	          aria-label="Galbraith Building"
-	          width="420"
-	          height="300"
+	          width="480"
+	          height="360"
       ></iframe>
    </div>
 
    <!-- intro -->
-   <div style="float:right;width:400px">
-     <font size ="2.8">
+   <div style="float:right;width:500px">
+     <font size ="3">
 	 <b>University of Toronto (St. George Campus)<br/>	 Department of Civil &amp; Mineral Engineering</b><p><br/>
 	 Lei Sun<br/> Galbraith Building<br />35 St. George Street<br /> Toronto, ON<br /> M5S 1A4
 	 </p><p>Email:  leo.sun@mail.utoronto.ca<br />
