@@ -10,7 +10,7 @@ title: "Contact Us"
       <iframe src="https://maps.google.com/maps?q=Galbraith%20Building&#038;t=m&#038;z=15&#038;output=embed&#038;iwloc=near"
 	          title="Galbraith Building"
 	          aria-label="Galbraith Building"
-	          width="560"
+	          width="500"
 	          height="400"
       ></iframe>
    </div>
@@ -61,8 +61,6 @@ grasselli-geomechanics-group" target="_blank">
 
 
 <div>
-
-
 </div>
 
 
