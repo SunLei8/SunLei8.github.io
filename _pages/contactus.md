@@ -3,20 +3,20 @@ permalink: /contact us/
 title: "Contact Us"
 ---
 
-<div style="width:1200px; height:400">
+<div style="width:1100px; height:400">
    <!-- map -->
    <div style="float:left;width:420px">
       <iframe src="https://maps.google.com/maps?q=Galbraith%20Building&#038;t=m&#038;z=15&#038;output=embed&#038;iwloc=near"
 	          title="Galbraith Building"
 	          aria-label="Galbraith Building"
-	          width="480"
-	          height="360"
+	          width="520"
+	          height="380"
       ></iframe>
    </div>
 
    <!-- intro -->
    <div style="float:right;width:500px">
-     <font size ="3">
+     <font size ="3.2">
 	 <b>University of Toronto (St. George Campus)<br/>	 Department of Civil &amp; Mineral Engineering</b><p><br/>
 	 Lei Sun<br/> Galbraith Building<br />35 St. George Street<br /> Toronto, ON<br /> M5S 1A4
 	 </p><p>Email:  leo.sun@mail.utoronto.ca<br />

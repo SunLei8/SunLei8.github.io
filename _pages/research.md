@@ -31,6 +31,13 @@ into the early stages of radicalization.
 
 <nbsp>
 
+* Flow and transport in fractured porous media
+
+* Influence of fractures on the hydro-mechanical behavior of rockmasses
+
+
+
+
 {% include base_path %}
 
 {% assign ordered_pages = site.research | sort:"order_number" %}
