@@ -32,6 +32,12 @@ header:
 </div>
 
 
+<li>研究方向</li>
+  <li  ><a href="/lists/9.html">深部隧道大变形灾变机理与防控<a></li><li class="active" ><a href="/lists/10.html">多场耦岩土体本构理论与模拟</a></li><li  ><a href="/lists/11.html">-机互馈感知智能方法</a></li><li  ><a href="/lists/12.html">隙岩体注浆试验与数值模拟</a></li><li  ><a href="/lists/13html">岩石动力学试验与数值方法</a></li>        </ul>
+
+
+
+
 1. Crogenic Thermal-Hydraulic-Mechanical Model
 
 2. Frost cracking process
