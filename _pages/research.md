@@ -70,7 +70,8 @@ html {
   <div style="width:800px;text-align:justify;">
     <center><h2 id="ResearchCTHM">Crogenic Thermal-Hydraulic-Mechanical Model</h2>
     <img src="/images/research/1CTHM.png" alt="" width="700"/><br>
-    <img src="/images/research/1U.avi" alt="" width="300"/>    
+    <img src="/images/research/1T.gif" alt="" width="300"/>    
+    <img src="/images/research/1U.gif" alt="" width="300"/>  
     </center>
     <p> 
     (Accepted paper in JRMGE) We developed a coupled modeling approach to simulate cryogenic thermo-hydro-mechanical (THM) processes associated with a freezing medium, which is then implemented in the combined finite-discrete element method code (FDEM) for multi-physics simulation. The cryogenic THM model can well predict the evolution of strongly coupled processes observed in frozen media (e.g., heat transfer, water migration, and frost heave deformation), while also capturing, as emergent properties of the model, important phenomena (e.g., latent heat, cryogenic suction, ice expansion and distinct three-zone distribution) caused by water/ice phase change at laboratory and field scales, which are hardly to be all revealed by existing THM models.  <a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.</p>
@@ -81,10 +82,12 @@ html {
 
 <div class="container">
   <div style="width:800px;text-align:justify;">
-    <center><h2 id="ResearchCTHM">Crogenic Thermal-Hydraulic-Mechanical Model</h2>
+    <center><h2 id="ResearchFC">Frost cracking simulation</h2>
     <img src="/images/research/2background.png" alt="" width="600"/><br>
-    <img src="/images/research/21.png" alt="" width="200"/><br>
-    <img src="/images/research/22.png" alt="" width="200"/><br>
+    <img src="/images/research/21.png" alt="" width="300"/>
+    <img src="/images/research/22.png" alt="" width="300"/>
+    <img src="/images/research/23.png" alt="" width="300"/>
+    <img src="/images/research/24.png" alt="" width="300"/>
     </center>
     <p> 
     Frost crack evolution induced by cyclic freeze-thaw is responsible for rock  deteriorationin cold regions and poses major threats to the stability and safety of infrastructure in rock.<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.</p>
