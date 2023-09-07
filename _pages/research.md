@@ -52,7 +52,6 @@ html {
   height: 80px; /* fixed header height*/
   margin: -80px 0 0; /* negative fixed header height */
 }
-
 </style>
 
 <!-- side head -->
@@ -80,9 +79,7 @@ html {
   <div style="width:800px;text-align:justify;">
     <center><h2 id="Research0">Crogenic Thermal-Hydraulic-Mechanical Model</h2>
     <img src="/_research/CTHM_1.png" alt="" width="600"/><br><br>
-    <img src="images/shear_seismic.jpg" alt="" width="600"/><br><br>
-    <img src="images/evt1.gif" alt="" width="300"/>
-    <img src="images/evt2.gif" alt="" width="300"/></center>
+    <img src="/images/Ulogo.png" alt="" width="300"/></center>
     <p> (Accepted paper in JRMGE) We developed a coupled modeling approach to simulate cryogenic thermo-hydro-mechanical (THM) processes associated with a freezing medium, which is then implemented in the combined finite-discrete element method code (FDEM) for multi-physics simulation.  <a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.</p>
   </div>
 </div>
