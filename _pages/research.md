@@ -68,6 +68,8 @@ html {
 
 
 <!-- content -->
+
+<!-- CTHM coupling model -->
 <div class="container">
   <div style="width:800px;text-align:justify;">
     <center><h2 id="ResearchCTHM">Crogenic Thermal-Hydraulic-Mechanical Model</h2>
@@ -82,6 +84,7 @@ html {
 <hr>
 
 
+<!-- Frost cracking -->
 <div class="container">
   <div style="width:800px;text-align:justify;">
     <center><h2 id="ResearchFC">Frost cracking simulation</h2>
@@ -98,6 +101,7 @@ html {
 <hr>
 
 
+<!-- Slope stability -->
 <div class="container">
   <div style="width:800px;text-align:justify;">
     <center><h2 id="ResearchSlope">Rock slope stability analysis</h2>
@@ -111,7 +115,7 @@ html {
 
 
 
-
+<!-- Fluid flow -->
 <div class="container">
   <div style="width:800px;text-align:justify;">
     <center><h2 id="ResearchFlow">Flow and transport in fractured porous media</h2></center>
@@ -120,26 +124,21 @@ html {
     <img src="/images/research/41.png" alt="" width="600"/><br>
     </center>
     <p> 
-    Description<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.</p>
+    The presence of fractures in porous media strongly influences the fluid flow behavior. Accurately simulating the fluid flow in realistic fracture networks (compared to the statistical fracture networks) is still challenging due to the fracture complexity and computational burden. This work proposes a simple yet efficient numerical framework for the flow simulation in a lab-scale true triaxial hydraulically fractured shale sample with 3D high-resolution images, aiming at both computational accuracy and efficiency. <a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.
+    </p>
   <h3>local grid refinement</h3>
   <center>
   <img src="/images/research/42.png" alt="" width="600"/><br>
   </center>
   <p> 
-  Description<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.</p>
+  Local grid refinement (LGR) is adopted around the fracture to improve accuracy with lower computational burden. Results show that this method is efficient in capturing main phenomena of the fluid transport in fractured porous media, without sacrificing computational accuracy. Particularly, the convergence of the LGR is in a higher order than the global grid refinement (GGR). This model also provides great flexibility in handling a multitude of fracture input data, e.g., planar fractures obtained from statistical data and non-planar fractures from digital images represented with point clouds. Balancing computational accuracy and efficiency, this method provides an effective approach for simulating flow transport in fracture porous medium.<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.</p>
   </div>
 </div>
 <hr>
 
 
+<!-- Thermal cracking -->
 
-
-
-
-* Rock slope stability analysis
-
-* Flow and transport in fractured porous media
-  - digital image based fluid flow
 
 * Thermal cracking
 
