@@ -9,7 +9,7 @@ header:
 
 <style>
 .sidenav {
-  width: 250px;
+  width: 300px;
   position: fixed;
   z-index: 1;
   top: 200px;
@@ -69,6 +69,14 @@ html {
 
 <!-- content -->
 
+
+<!-- Two-phase flow -->
+
+<!-- frost induced Rockfall -->
+
+<!-- 3D frost heave -->
+
+
 <!-- CTHM coupling model -->
 <div class="container">
   <div style="width:800px;text-align:justify;">
@@ -89,6 +97,7 @@ html {
   <div style="width:800px;text-align:justify;">
     <center><h2 id="ResearchFC">Frost cracking simulation</h2>
     <img src="/images/research/2background.png" alt="" width="600"/><br>
+    Experimental and numerical tests<br>
     <img src="/images/research/21.png" alt="" width="300"/>
     <img src="/images/research/22.png" alt="" width="300"/>
     <img src="/images/research/23.png" alt="" width="300"/>
@@ -104,11 +113,48 @@ html {
 <!-- Slope stability -->
 <div class="container">
   <div style="width:800px;text-align:justify;">
-    <center><h2 id="ResearchSlope">Rock slope stability analysis</h2>
-    <img src="/images/research/2background.png" alt="" width="600"/><br>
-    </center>
+    <center><h2 id="ResearchSlope">Rock slope stability analysis</h2> </center>
+    <h3>Rock slope</h3>
+      <center>
+      <img src="/images/research/slope1.gif" alt="" width="300"/>
+      <img src="/images/research/slope2.gif" alt="" width="300" height="215"/><br>
+      </center>
     <p> 
     Description<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.</p>
+    <h3>Joint effect</h3>
+      <center>
+      <img src="/images/research/slope6.gif" alt="" width="180"/>
+      <img src="/images/research/slope8.gif" alt="" width="180"/>
+      <img src="/images/research/slope.gif" alt="" width="180"/>
+      <img src="/images/research/slope9.gif" alt="" width="180"/><br>
+      </center>
+      <p> 
+    Description<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.</p>
+    <h3>Reservior slope under water fluncation</h3>
+      <center>
+      <img src="/images/research/slope10.gif" alt="" width="180"/>
+      <img src="/images/research/slope11.gif" alt="" width="180"/>
+      <img src="/images/research/slope12.gif" alt="" width="180"/>
+      <img src="/images/research/slope10.png" alt="" width="180"/><br>
+      Effects of water level change rates <br>
+      <img src="/images/research/slope10.gif" alt="" width="180"/>
+      <img src="/images/research/slope13.gif" alt="" width="180"/>
+      <img src="/images/research/slope14.gif" alt="" width="180"/>
+      <img src="/images/research/slope13.png" alt="" width="180"/><br>
+      Effects of slope permeability coefficient  <br>
+      </center>
+    <p> 
+    Description<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.</p>
+  <h3>Case study: Majiagou slope</h3>
+    <center>
+    <img src="/images/research/slopema.png" alt="" width="200"/>
+    <img src="/images/research/slopema2.png" alt="" width="200"/><br>
+    <img src="/images/research/slope29.gif" alt="" width="200"/>
+    <img src="/images/research/slope28.gif" alt="" width="200"/><br>
+    </center>
+  <p> 
+Description<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read 
+more</a>.</p>
   </div>
 </div>
 <hr>
@@ -138,16 +184,129 @@ html {
 
 
 <!-- Thermal cracking -->
+<div class="container">
+  <div style="width:800px;text-align:justify;">
+    <center><h2 id="ResearchFlow">Thermal cracking simulation</h2></center>
+    <h3>TM model</h3>
+      <center>
+      <div style="float:left">
+      <img src="/images/research/TM0.png" alt="" width="500"/>
+      </div>
+      <img src="/images/research/TM1.png" alt="" width="150"/>
+      <img src="/images/research/TM2.GIF" alt="" width="150"/>  <br>
+      </center>
+      <p> 
+      Description<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.
+      </p>
+    <h3>Anisotropoc model</h3>
+      <center>
+      <img src="/images/research/TM24.png" alt="" width="200"/>
+      <img src="/images/research/TM241.gif" alt="" height="170" style="display:inline-block;vertical-align:top;"/>
+      <img src="/images/research/TM242.gif" alt="" width="170" style="display:inline-block;vertical-align:top;"/>
+      <br> isotropic model <br>
+      <img src="/images/research/TM23.png" alt="" width="200"/>
+      <img src="/images/research/TM231.gif" alt="" height="170" style="display:inline-block;vertical-align:top;"/>
+      <img src="/images/research/TM232.gif" alt="" width="170" style="display:inline-block;vertical-align:top;"/>
+      <br> anisotropic model <br>
+      </center>
+      <p> 
+      Description<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.</p>
+
+   <h3>FGM</h3>
+      <center>
+      <img src="/images/research/TM31.png" alt="" width="300" style="display:inline-block;vertical-align:middle;"/>
+      <img src="/images/research/TM311.gif" alt="" width="250" style="display:inline-block;vertical-align:middle;"/>
+      <br>
+      <img src="/images/research/TM32.png" alt="" width="300" 
+      style="display:inline-block;vertical-align:middle;"/>
+      <img src="/images/research/TM321.gif" alt="" width="250" 
+      style="display:inline-block;vertical-align:middle;"/>
+      <br>
+      </center>
+      <p> 
+      Description<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.</p>
+   
+   <h3>Grain-based model</h3>
+     <center>
+     <img src="/images/research/52.png" alt="" width="500"/><br>
+     </center>
+     <p> 
+     Description<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.</p>
+   <h3>Heating/-LN2 cooling treatment</h3>
+    <center>
+    <img src="/images/research/53.png" alt="" width="600"/><br>
+    <img src="/images/research/GBM.png" alt="" width="150" style="display:inline-block;vertical-align:middle;"/>
+    <img src="/images/research/GBM1.GIF" alt="" width="100" style="display:inline-block;vertical-align:middle;"/>
+    <img src="/images/research/GBM2.GIF" alt="" width="100" style="display:inline-block;vertical-align:middle;"/>
+    <img src="/images/research/GBM3.GIF" alt="" width="100" style="display:inline-block;vertical-align:middle;"/>
+    <img src="/images/research/GBM4.GIF" alt="" width="100" style="display:inline-block;vertical-align:middle;"/>
+    <img src="/images/research/GBM5.GIF" alt="" width="100" style="display:inline-block;vertical-align:middle;"/>
+    </center>
+    <p> 
+    Thermal treatment of the warm rock mass using liquid nitrogen (LN2) is a prospective rock fracturing technology in many geo-engineering applications.We present an experimental and numerical work aimed at investigating the effect of thermal treatments (i.e., heating–LN2 cooling) on fracture failure characteristics. results show that the thermal treatment has a significant influence on the fracture toughness and roughness. The fracture toughness of the thermally treated samples shows a negative correlation with the heating temperature, except in the range of 25–200 ºC where the fracture toughness shows a slight increase. However, the fracture roughness of thermally treated samples shows an opposite trend as it gradually increases with temperature. Scanning electron microscope analysis associates these phenomena to the development of thermal microcracks. The thermally induced microcracks contribute to the variation of the fracture toughness and roughness according to the laboratory experiment and numerical simulation.<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.</p> 
+  </div>
+</div>
+<hr>
 
 
-* Thermal cracking
-
-* 裂隙岩体注浆试验与数值模拟 (grout migration)
 
 
-* Influence of fractures on the hydro-mechanical behavior of rockmasses (Hydraulic fracturing)
+<!-- grouting -->
+<div class="container">
+  <div style="width:800px;text-align:justify;">
+    <center><h2 id="ResearchHF">Grout migration</h2> </center>
+      <h3>FEMM</h3>
+      <center>
+      <img src="/images/research/grout1.png" alt="" width="400"/>
+      <img src="/images/research/grout1.gif" alt="" width="160"/>
+      <img src="/images/research/grouting.gif" alt="" width="200"/>
+      <br>
+      </center>
+    <p> 
+    Description<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.</p>
+      <h3>In-situ stress effect</h3>
+      <center>
+      <img src="/images/research/grouts1.png" alt="" width="600"/>
+      <img src="/images/research/grouts2.png" alt="" width="600"/>
+      <br>
+      </center>
+    <p> 
+    Description<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.</p>
+  </div>
+</div>
+<hr>
 
 
-* 多场耦合岩土体本构理论与模拟(水力，热力，GBM)
+
+
+<!-- hydraulic fracturing -->
+<div class="container">
+  <div style="width:800px;text-align:justify;">
+    <center><h2 id="ResearchHF">hydraulic fracturing</h2> </center>
+      <h3>FEMM</h3>
+      <center>
+      <img src="/images/research/J0.gif" alt="" width="180" style="display:inline-block;vertical-align:middle;"/>
+      <img src="/images/research/J30.gif" alt="" width="160" style="display:inline-block;vertical-align:middle;"/>
+      <img src="/images/research/J60.gif" alt="" width="160" style="display:inline-block;vertical-align:middle;"/>
+      <img src="/images/research/multifrac.gif" alt="" width="200" style="display:inline-block;vertical-align:middle;"/><br>
+      </center>
+    <p> 
+    Description<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.</p>
+      <h3>FDEM</h3>
+      <center>
+      <img src="/images/research/HF1.png" alt="" height="300"/>
+      <img src="/images/research/HF1.gif" alt="" height="300"/>
+      <img src="/images/research/HF2.gif" alt="" height="300"/>
+      <img src="/images/research/hf2.png" alt="" height="300"/>
+      <br>
+      <img src="/images/research/hf22.png" alt="" height="250" style="display:inline-block;vertical-align:top;"/>
+      <img src="/images/research/hf22.gif" alt="" height="210" style="display:inline-block;vertical-align:top;"/>
+      </center>
+    <p> 
+    Description<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.</p>
+  </div>
+</div>
+<hr>
+
 
 <nbsp>
