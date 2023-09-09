@@ -155,7 +155,7 @@ html {
     <div style="width:66%;float:left;">
     <img src="/images/research/slopema.png" alt=""/>
     </div>
-    <div style="width:34%;height:380px;float:left;">
+    <div style="width:34%;height:400px;float:left;">
     <img src="/images/research/slope29.gif" alt="" />
     <img src="/images/research/slope28.gif" alt="" />
     <img src="/images/research/slopema2.png" alt=""/><br>
