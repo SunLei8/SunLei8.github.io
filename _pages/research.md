@@ -37,7 +37,7 @@ header:
   padding: 0px 0px;
 }
 
-@media screen and (/*max-height: 500px*/) {
+@media screen and (max-height: 500px) {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
 }
@@ -49,7 +49,7 @@ html {
 :target::before {
   content: "";
   display: block;
-  /* height: 80px; /* fixed header height*/
+  height: 80px; /* fixed header height*/
   margin: -80px 0 0; /* negative fixed header height */
 }
 </style>
@@ -152,15 +152,13 @@ html {
     
   <h3>Case study: Majiagou slope</h3>
     <center>
-    <div style="width:40%;float:left;">
+    <div style="width:70%;float:left;">
     <img src="/images/research/slopema.png" alt=""/>
     </div>
-    <div style="width:30%;float:left;">
+    <div style="width:30%;height:550px;float:left;">
     <img src="/images/research/slope29.gif" alt="" />
     <img src="/images/research/slope28.gif" alt="" />
-    </div>
-    <div style="width:30%;height:250px;float:left;">
-    <img src="/images/research/slopema2.png" alt="" style="display:inline-block;vertical-align:middle;"/><br>
+    <img src="/images/research/slopema2.png" alt=""/><br>
     </div>
     </center>
   <p> 
