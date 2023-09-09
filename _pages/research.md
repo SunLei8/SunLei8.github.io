@@ -119,9 +119,9 @@ html {
     <center><h2 id="ResearchSlope">Rock slope stability analysis</h2> </center>
     <h3>Rock slope</h3>
       <center>
-      <img src="/images/research/slope1.gif" alt="" height="120px"/>
-      <img src="/images/research/slope3.gif" alt="" height="120px" />
-      <img src="/images/research/slope2.gif" alt="" height="120px" /><br>
+      <img src="/images/research/slope1.gif" alt="" width="180px"/>
+      <img src="/images/research/slope3.gif" alt="" width="180px" height="125px" />
+      <img src="/images/research/slope2.gif" alt="" width="180px" height="125px"/><br>
       </center>
     <p> 
     Description<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.</p>
@@ -199,14 +199,14 @@ more</a>.</p>
     <center><h2 id="ResearchTC">Thermal cracking simulation</h2></center>
     <h3>TM model</h3>
     <center>
-    <div style="width:70%;height:400px;float:left;">
+    <div style="width:70%;height:450px;float:left;">
     <img src="/images/research/TM0.png" alt=""/><br>
     </div>
     <div style="width:30%;height:150px;float:left;">
     <img src="/images/research/TM1.png" alt=""/><br>
     </div>
     <div style="width:30%;height:150px;float:left;">
-    <img src="/images/research/TM2.GIF" alt=""/> <br>
+    <img src="/images/research/TM2.gif" alt=""/> <br>
     </div>
     </center>
     <p> efficiency. <a href="https://doi.org/10.1016/j.ijrmms.2023.105392" 
