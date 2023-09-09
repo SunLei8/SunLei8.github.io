@@ -120,8 +120,8 @@ html {
     <h3>Rock slope</h3>
       <center>
       <img src="/images/research/slope1.gif" alt="" width="180"/>
-      <img src="/images/research/slope3.gif" alt="" width="180px" height="125"/>
-      <img src="/images/research/slope2.gif" alt="" width="180px" height="125"/><br>
+      <img src="/images/research/slope3.gif" alt="" width="250"/>
+      <img src="/images/research/slope2.gif" alt="" width="270"/><br>
       </center>
     <p> 
     Description<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.</p>
@@ -152,10 +152,10 @@ html {
     
   <h3>Case study: Majiagou slope</h3>
     <center>
-    <div style="width:70%;float:left;">
+    <div style="width:65%;float:left;">
     <img src="/images/research/slopema.png" alt=""/>
     </div>
-    <div style="width:30%;height:550px;float:left;">
+    <div style="width:35%;height:400px;float:left;">
     <img src="/images/research/slope29.gif" alt="" />
     <img src="/images/research/slope28.gif" alt="" />
     <img src="/images/research/slopema2.png" alt=""/><br>
