@@ -85,8 +85,8 @@ html {
   <div style="width:800px;text-align:justify;">
     <center><h2 id="ResearchCTHM">Crogenic Thermal-Hydraulic-Mechanical Model</h2>
     <img src="/images/research/1CTHM.png" alt="" width="700"/><br>
-    <img src="/images/research/1T.gif" alt="" width="300"/>    
-    <img src="/images/research/1U.gif" alt="" width="300"/>  
+    <img src="/images/research/1T.gif" alt="" width="250"/>    
+    <img src="/images/research/1U.gif" alt="" width="250"/>  
     </center>
     <p> 
     We developed a coupled modeling approach to simulate cryogenic thermo-hydro-mechanical (THM) processes associated with a freezing medium, which is then implemented in the combined finite-discrete element method code (FDEM) for multi-physics simulation. The cryogenic THM model can well predict the evolution of strongly coupled processes observed in frozen media (e.g., heat transfer, water migration, and frost heave deformation), while also capturing, as emergent properties of the model, important phenomena (e.g., latent heat, cryogenic suction, ice expansion and distinct three-zone distribution) caused by water/ice phase change at laboratory and field scales, which are hardly to be all revealed by existing THM models.  <a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.</p>
@@ -139,12 +139,12 @@ html {
       <img src="/images/research/slope10.gif" alt="" width="180"/>
       <img src="/images/research/slope11.gif" alt="" width="180"/>
       <img src="/images/research/slope12.gif" alt="" width="180"/>
-      <img src="/images/research/slope10.png" alt="" width="180"/><br>
+      <img src="/images/research/slope10.png" alt="" width="190"/><br>
       Effects of water level change rates <br>
       <img src="/images/research/slope10.gif" alt="" width="180"/>
       <img src="/images/research/slope13.gif" alt="" width="180"/>
       <img src="/images/research/slope14.gif" alt="" width="180"/>
-      <img src="/images/research/slope13.png" alt="" width="180"/><br>
+      <img src="/images/research/slope13.png" alt="" width="190"/><br>
       Effects of slope permeability coefficient  <br>
       </center>
     <p> 
@@ -152,10 +152,10 @@ html {
     
   <h3>Case study: Majiagou slope</h3>
     <center>
-    <div style="width:65%;float:left;">
+    <div style="width:66%;float:left;">
     <img src="/images/research/slopema.png" alt=""/>
     </div>
-    <div style="width:35%;height:400px;float:left;">
+    <div style="width:34%;height:380px;float:left;">
     <img src="/images/research/slope29.gif" alt="" />
     <img src="/images/research/slope28.gif" alt="" />
     <img src="/images/research/slopema2.png" alt=""/><br>
@@ -203,13 +203,11 @@ more</a>.</p>
     <center><h2 id="ResearchTC">Thermal cracking simulation</h2></center>
     <h3>TM model</h3>
     <center>
-    <div style="width:70%;height:450px;float:left;">
+    <div style="width:73%;float:left;">
     <img src="/images/research/TM0.png" alt=""/>
     </div>
-    <div style="width:30%;height:130px;float:left;">
+    <div style="width:26%;height:400px;float:left;">
     <img src="/images/research/TM1.png" alt=""/>
-    </div>
-    <div style="width:30%;height:130px;float:left;">
     <img src="/images/research/TM2.gif" alt=""/>
     </div>
     </center>
