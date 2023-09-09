@@ -49,7 +49,7 @@ html {
 :target::before {
   content: "";
   display: block;
-  height: 80px; /* fixed header height*/
+  /* height: 80px; /* fixed header height*/
   margin: -80px 0 0; /* negative fixed header height */
 }
 </style>
@@ -119,9 +119,9 @@ html {
     <center><h2 id="ResearchSlope">Rock slope stability analysis</h2> </center>
     <h3>Rock slope</h3>
       <center>
-      <img src="/images/research/slope1.gif" alt="" width="180px"/>
-      <img src="/images/research/slope3.gif" alt="" width="180px" height="125px" />
-      <img src="/images/research/slope2.gif" alt="" width="180px" height="125px"/><br>
+      <img src="/images/research/slope1.gif" alt="" width="180"/>
+      <img src="/images/research/slope3.gif" alt="" width="180px" height="125"/>
+      <img src="/images/research/slope2.gif" alt="" width="180px" height="125"/><br>
       </center>
     <p> 
     Description<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.</p>
@@ -152,15 +152,15 @@ html {
     
   <h3>Case study: Majiagou slope</h3>
     <center>
-    <div style="width:40%;height:450px;float:left;">
-    <img src="/images/research/slopema.png" alt="" width="200"/>
+    <div style="width:40%;float:left;">
+    <img src="/images/research/slopema.png" alt=""/>
     </div>
-    <div style="width:30%;height:450px;float:left;">
-    <img src="/images/research/slope29.gif" alt="" width="200"/>
-    <img src="/images/research/slope28.gif" alt="" width="200"/>
+    <div style="width:30%;float:left;">
+    <img src="/images/research/slope29.gif" alt="" />
+    <img src="/images/research/slope28.gif" alt="" />
     </div>
-    <div style="width:30%;height:450px;float:left;">
-    <img src="/images/research/slopema2.png" alt="" width="200"/><br>
+    <div style="width:30%;height:250px;float:left;">
+    <img src="/images/research/slopema2.png" alt="" style="display:inline-block;vertical-align:middle;"/><br>
     </div>
     </center>
   <p> 
@@ -208,10 +208,10 @@ more</a>.</p>
     <div style="width:70%;height:450px;float:left;">
     <img src="/images/research/TM0.png" alt=""/>
     </div>
-    <div style="width:30%;height:100px;float:left;">
+    <div style="width:30%;height:130px;float:left;">
     <img src="/images/research/TM1.png" alt=""/>
     </div>
-    <div style="width:30%;height:100px;float:left;">
+    <div style="width:30%;height:130px;float:left;">
     <img src="/images/research/TM2.gif" alt=""/>
     </div>
     </center>
