@@ -152,10 +152,16 @@ html {
     
   <h3>Case study: Majiagou slope</h3>
     <center>
+    <div style="width:40%;height:450px;float:left;">
     <img src="/images/research/slopema.png" alt="" width="200"/>
+    </div>
+    <div style="width:30%;height:450px;float:left;">
     <img src="/images/research/slope29.gif" alt="" width="200"/>
     <img src="/images/research/slope28.gif" alt="" width="200"/>
+    </div>
+    <div style="width:30%;height:450px;float:left;">
     <img src="/images/research/slopema2.png" alt="" width="200"/><br>
+    </div>
     </center>
   <p> 
 Description<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read 
@@ -200,13 +206,13 @@ more</a>.</p>
     <h3>TM model</h3>
     <center>
     <div style="width:70%;height:450px;float:left;">
-    <img src="/images/research/TM0.png" alt=""/><br>
+    <img src="/images/research/TM0.png" alt=""/>
     </div>
-    <div style="width:30%;height:150px;float:left;">
-    <img src="/images/research/TM1.png" alt=""/><br>
+    <div style="width:30%;height:100px;float:left;">
+    <img src="/images/research/TM1.png" alt=""/>
     </div>
-    <div style="width:30%;height:150px;float:left;">
-    <img src="/images/research/TM2.gif" alt=""/> <br>
+    <div style="width:30%;height:100px;float:left;">
+    <img src="/images/research/TM2.gif" alt=""/>
     </div>
     </center>
     <p> efficiency. <a href="https://doi.org/10.1016/j.ijrmms.2023.105392" 
@@ -214,18 +220,18 @@ target="_blank">Read more</a>.    </p>
 
   <h3>Anisotropoc model</h3>
   <center>
-   <img src="/images/research/TM24.png" alt="" width="200" 
-style="display:inline-block;vertical-align:top;"/>
-<img src="/images/research/TM241.gif" alt="" width="195" 
-style="display:inline-block;vertical-align:top;"/>
-<img src="/images/research/TM242.gif" alt="" width="170" 
-style="display:inline-block;vertical-align:top;"/>
-<br> isotropic model <br>
-<img src="/images/research/TM23.png" alt="" width="200" 
+   <img src="/images/research/TM23.png" alt="" width="200" 
 style="display:inline-block;vertical-align:top;"/>
 <img src="/images/research/TM231.gif" alt="" width="195" 
 style="display:inline-block;vertical-align:top;"/>
 <img src="/images/research/TM232.gif" alt="" width="170" 
+style="display:inline-block;vertical-align:top;"/>
+<br> isotropic model <br>
+<img src="/images/research/TM24.png" alt="" width="200" 
+style="display:inline-block;vertical-align:top;"/>
+<img src="/images/research/TM241.gif" alt="" width="195" 
+style="display:inline-block;vertical-align:top;"/>
+<img src="/images/research/TM242.gif" alt="" width="170" 
 style="display:inline-block;vertical-align:top;"/>
 <br> anisotropic model <br>
   </center>
@@ -259,15 +265,15 @@ target="_blank">Read more</a>.</p>
  <img src="/images/research/53.png" alt="" width="600"/><br>
  <img src="/images/research/GBM.png" alt="" width="150" 
 style="display:inline-block;vertical-align:middle;"/>
- <img src="/images/research/GBM1.gif" alt="" width="100" 
+ <img src="/images/research/GBM1.gif" alt="" width="120" 
 style="display:inline-block;vertical-align:middle;"/>
- <img src="/images/research/GBM2.gif" alt="" width="100" 
+ <img src="/images/research/GBM2.gif" alt="" width="120" 
 style="display:inline-block;vertical-align:middle;"/>
- <img src="/images/research/GBM3.gif" alt="" width="100" 
+ <img src="/images/research/GBM3.gif" alt="" width="120" 
 style="display:inline-block;vertical-align:middle;"/>
- <img src="/images/research/GBM4.gif" alt="" width="100" 
+ <img src="/images/research/GBM4.gif" alt="" width="120" 
 style="display:inline-block;vertical-align:middle;"/>
- <img src="/images/research/GBM5.gif" alt="" width="100" 
+ <img src="/images/research/GBM5.gif" alt="" width="120" 
 style="display:inline-block;vertical-align:middle;"/>
  </center>
  <p> 
