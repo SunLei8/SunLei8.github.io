@@ -62,6 +62,9 @@ html {
 			<li><a href="#ResearchFC">Frost cracking</a></li>
       <li><a href="#ResearchSlope">Rock slope stability analysis</a></li>
       <li><a href="#ResearchFlow">Flow and transport in fractured porous media</a></li>
+      <li><a href="#ResearchTC">Thermal cracking</a></li>
+      <li><a href="#ResearchGrout">Grout migration</a></li>
+      <li><a href="#ResearchHF">Hydraulic fracturing</a></li>
 		</ul>
 	</div>
 </div>
@@ -146,6 +149,7 @@ html {
       </center>
     <p> 
     Description<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.</p>
+    
   <h3>Case study: Majiagou slope</h3>
     <center>
     <img src="/images/research/slopema.png" alt="" width="200"/>
@@ -170,9 +174,8 @@ more</a>.</p>
     <center>
     <img src="/images/research/41.png" alt="" width="600"/><br>
     </center>
-    <p> 
-    The presence of fractures in porous media strongly influences the fluid flow behavior. Accurately simulating the fluid flow in realistic fracture networks (compared to the statistical fracture networks) is still challenging due to the fracture complexity and computational burden. This work proposes a simple yet efficient numerical framework for the flow simulation in a lab-scale true triaxial hydraulically fractured shale sample with 3D high-resolution images, aiming at both computational accuracy and efficiency. <a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.
-    </p>
+    <p> The presence of fractures in porous media strongly influences the fluid flow behavior. Accurately simulating the fluid flow in realistic fracture networks (compared to the statistical fracture networks) is still challenging due to the fracture complexity and computational burden. This work proposes a simple yet efficient numerical framework for the flow simulation in a lab-scale true triaxial hydraulically fractured shale sample with 3D high-resolution images, aiming at both computational accuracy and efficiency. <a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.    </p>
+
   <h3>local grid refinement</h3>
   <center>
   <img src="/images/research/42.png" alt="" width="600"/><br>
@@ -184,22 +187,118 @@ more</a>.</p>
 <hr>
 
 
+
+
+
+
+
+
 <!-- Thermal cracking -->
 <div class="container">
   <div style="width:800px;text-align:justify;">
-    <center><h2 id="ResearchFlow">Thermal cracking simulation</h2></center>
+    <center><h2 id="ResearchTC">Thermal cracking simulation</h2></center>
     <h3>TM model</h3>
-      <div style="height:500px; float:left">
-        <img src="/images/research/TM0.png" alt=""/>
-      </div>
-      <div style="height: 150px; float:right">
-        <img src="/images/research/TM1.png" alt=""/>
-      </div>
-      <div style="height: 150px; float:right">
-        <img src="/images/research/TM2.GIF" alt=""/> <br>
-      </div>  
-      <p>
-      Description<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.  </p>
+    <center>
+    <div style="width:70%;height:300px;float:left;background-color:red;">
+    <img src="/images/research/TM0.png" alt=""/><br>
+    </div>
+    <div style="width:30%;height:150px;float:left;background-color:pink;">
+    <img src="/images/research/TM1.png" alt=""/><br>
+    </div>
+    <div style="width:30%;height:150px;float:left;background-color:#fef4e7;">
+    <img src="/images/research/TM2.GIF" alt=""/> <br>
+    </div>
+    </center>
+    <p> efficiency. <a href="https://doi.org/10.1016/j.ijrmms.2023.105392" 
+target="_blank">Read more</a>.    </p>
+
+  <h3>Anisotropoc model</h3>
+  <center>
+   <img src="/images/research/TM24.png" alt="" width="200" 
+style="display:inline-block;vertical-align:top;"/>
+<img src="/images/research/TM241.gif" alt="" width="195" 
+style="display:inline-block;vertical-align:top;"/>
+<img src="/images/research/TM242.gif" alt="" width="170" 
+style="display:inline-block;vertical-align:top;"/>
+<br> isotropic model <br>
+<img src="/images/research/TM23.png" alt="" width="200" 
+style="display:inline-block;vertical-align:top;"/>
+<img src="/images/research/TM231.gif" alt="" width="195" 
+style="display:inline-block;vertical-align:top;"/>
+<img src="/images/research/TM232.gif" alt="" width="170" 
+style="display:inline-block;vertical-align:top;"/>
+<br> anisotropic model <br>
+  </center>
+  <p> medium.<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.</p>
+
+  <h3>FGM</h3>
+   <center>
+   <img src="/images/research/TM31.png" alt="" width="300" 
+style="display:inline-block;vertical-align:middle;"/>
+   <img src="/images/research/TM311.gif" alt="" width="250" 
+style="display:inline-block;vertical-align:middle;"/>
+   <br>
+   <img src="/images/research/TM32.png" alt="" width="300" 
+   style="display:inline-block;vertical-align:middle;"/>
+   <img src="/images/research/TM321.gif" alt="" width="250" 
+   style="display:inline-block;vertical-align:middle;"/>
+   <br>
+   </center>
+   <p> 
+   Description<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" 
+target="_blank">Read more</a>.</p> 
+<h3>Grain-based model</h3>
+  <center>
+  <img src="/images/research/52.png" alt="" width="500"/><br>
+  </center>
+  <p> 
+  Description<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" 
+target="_blank">Read more</a>.</p>
+<h3>Heating/-LN2 cooling treatment</h3>
+ <center>
+ <img src="/images/research/53.png" alt="" width="600"/><br>
+ <img src="/images/research/GBM.png" alt="" width="150" 
+style="display:inline-block;vertical-align:middle;"/>
+ <img src="/images/research/GBM1.gif" alt="" width="100" 
+style="display:inline-block;vertical-align:middle;"/>
+ <img src="/images/research/GBM2.gif" alt="" width="100" 
+style="display:inline-block;vertical-align:middle;"/>
+ <img src="/images/research/GBM3.gif" alt="" width="100" 
+style="display:inline-block;vertical-align:middle;"/>
+ <img src="/images/research/GBM4.gif" alt="" width="100" 
+style="display:inline-block;vertical-align:middle;"/>
+ <img src="/images/research/GBM5.gif" alt="" width="100" 
+style="display:inline-block;vertical-align:middle;"/>
+ </center>
+ <p> 
+ Thermal treatment of the warm rock mass using liquid nitrogen (LN2) is a 
+prospective rock fracturing technology in many geo-engineering applications.
+We present an experimental and numerical work aimed at investigating the 
+effect of thermal treatments (i.e., heating–LN2 cooling) on fracture failure 
+characteristics. results show that the thermal treatment has a significant 
+influence on the fracture toughness and roughness. The fracture toughness of 
+the thermally treated samples shows a negative correlation with the heating 
+temperature, except in the range of 25–200 ºC where the fracture toughness 
+shows a slight increase. However, the fracture roughness of thermally treated 
+samples shows an opposite trend as it gradually increases with temperature. 
+Scanning electron microscope analysis associates these phenomena to the 
+development of thermal microcracks. The thermally induced microcracks 
+contribute to the variation of the fracture toughness and roughness according 
+to the laboratory experiment and numerical simulation.<a href="https://doi.
+org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.</p> 
+  </div>
+</div>
+<hr>
+
+
+
+
+
+<!-- Thermal cracking -->
+<div class="container">
+  <div style="width:800px;text-align:justify;">
+    <center><h2 id="ResearchTC">Thermal cracking simulation</h2></center>
+    <h3>TM model</h3>
     <h3>Anisotropoc model</h3>
       <center>
       <img src="/images/research/TM24.png" alt="" width="200" style="display:inline-block;vertical-align:top;"/>
@@ -211,8 +310,7 @@ more</a>.</p>
       <img src="/images/research/TM232.gif" alt="" width="170" style="display:inline-block;vertical-align:top;"/>
       <br> anisotropic model <br>
       </center>
-      <p> 
-      Description<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.</p>
+      <p> Description<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.</p>
 
    <h3>FGM</h3>
       <center>
@@ -226,8 +324,7 @@ more</a>.</p>
       <br>
       </center>
       <p> 
-      Description<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.</p>
-   
+      Description<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.</p> 
    <h3>Grain-based model</h3>
      <center>
      <img src="/images/research/52.png" alt="" width="500"/><br>
@@ -238,11 +335,11 @@ more</a>.</p>
     <center>
     <img src="/images/research/53.png" alt="" width="600"/><br>
     <img src="/images/research/GBM.png" alt="" width="150" style="display:inline-block;vertical-align:middle;"/>
-    <img src="/images/research/GBM1.GIF" alt="" width="100" style="display:inline-block;vertical-align:middle;"/>
-    <img src="/images/research/GBM2.GIF" alt="" width="100" style="display:inline-block;vertical-align:middle;"/>
-    <img src="/images/research/GBM3.GIF" alt="" width="100" style="display:inline-block;vertical-align:middle;"/>
-    <img src="/images/research/GBM4.GIF" alt="" width="100" style="display:inline-block;vertical-align:middle;"/>
-    <img src="/images/research/GBM5.GIF" alt="" width="100" style="display:inline-block;vertical-align:middle;"/>
+    <img src="/images/research/GBM1.gif" alt="" width="100" style="display:inline-block;vertical-align:middle;"/>
+    <img src="/images/research/GBM2.gif" alt="" width="100" style="display:inline-block;vertical-align:middle;"/>
+    <img src="/images/research/GBM3.gif" alt="" width="100" style="display:inline-block;vertical-align:middle;"/>
+    <img src="/images/research/GBM4.gif" alt="" width="100" style="display:inline-block;vertical-align:middle;"/>
+    <img src="/images/research/GBM5.gif" alt="" width="100" style="display:inline-block;vertical-align:middle;"/>
     </center>
     <p> 
     Thermal treatment of the warm rock mass using liquid nitrogen (LN2) is a prospective rock fracturing technology in many geo-engineering applications.We present an experimental and numerical work aimed at investigating the effect of thermal treatments (i.e., heating–LN2 cooling) on fracture failure characteristics. results show that the thermal treatment has a significant influence on the fracture toughness and roughness. The fracture toughness of the thermally treated samples shows a negative correlation with the heating temperature, except in the range of 25–200 ºC where the fracture toughness shows a slight increase. However, the fracture roughness of thermally treated samples shows an opposite trend as it gradually increases with temperature. Scanning electron microscope analysis associates these phenomena to the development of thermal microcracks. The thermally induced microcracks contribute to the variation of the fracture toughness and roughness according to the laboratory experiment and numerical simulation.<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.</p> 
@@ -251,17 +348,15 @@ more</a>.</p>
 <hr>
 
 
-
-
 <!-- grouting -->
 <div class="container">
   <div style="width:800px;text-align:justify;">
-    <center><h2 id="ResearchHF">Grout migration</h2> </center>
+    <center><h2 id="ResearchGrout">Grout migration</h2> </center>
       <h3>FEMM</h3>
       <center>
       <img src="/images/research/grout1.png" alt="" width="400"/>
       <img src="/images/research/grout1.gif" alt="" width="160"/>
-      <img src="/images/research/grouting.gif" alt="" width="200"/>
+      <img src="/images/research/grouting.gif" alt="" width="210"/>
       <br>
       </center>
     <p> 
@@ -279,8 +374,6 @@ more</a>.</p>
 <hr>
 
 
-
-
 <!-- hydraulic fracturing -->
 <div class="container">
   <div style="width:800px;text-align:justify;">
@@ -296,13 +389,13 @@ more</a>.</p>
     Description<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.</p>
       <h3>FDEM</h3>
       <center>
-      <img src="/images/research/HF1.png" alt="" height="100"/>
-      <img src="/images/research/HF1.gif" alt="" height="100"/>
-      <img src="/images/research/HF2.gif" alt="" height="100"/>
-      <img src="/images/research/hf2.png" alt="" height="100"/>
+      <img src="/images/research/HF1.png" alt="" width="80"/>
+      <img src="/images/research/HF1.gif" alt="" width="75"/>
+      <img src="/images/research/HF2.gif" alt="" width="75"/>
+      <img src="/images/research/hf2.png" alt="" width="155"/>
       <br>
-      <img src="/images/research/hf22.png" alt="" height="80" style="display:inline-block;vertical-align:top;"/>
-      <img src="/images/research/hf22.gif" alt="" height="70" style="display:inline-block;vertical-align:top;"/>
+      <img src="/images/research/hf22.png" alt="" width="160" style="display:inline-block;vertical-align:top;"/>
+      <img src="/images/research/hf22.gif" alt="" width="140" style="display:inline-block;vertical-align:top;"/>
       </center>
     <p> 
     Description<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.</p>
