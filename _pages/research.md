@@ -116,8 +116,9 @@ html {
     <center><h2 id="ResearchSlope">Rock slope stability analysis</h2> </center>
     <h3>Rock slope</h3>
       <center>
-      <img src="/images/research/slope1.gif" alt="" height="150"/>
-      <img src="/images/research/slope2.gif" alt="" height="150" /><br>
+      <img src="/images/research/slope1.gif" alt="" height="120"/>
+      <img src="/images/research/slope3.gif" alt="" height="120" />
+      <img src="/images/research/slope2.gif" alt="" height="120" /><br>
       </center>
     <p> 
     Description<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.</p>
@@ -149,8 +150,8 @@ html {
     <center>
     <img src="/images/research/slopema.png" alt="" width="200"/>
     <img src="/images/research/slope29.gif" alt="" width="200"/>
-    <img src="/images/research/slope28.gif" alt="" width="200"/><br>
-    <img src="/images/research/slopema2.png" alt="" width="200"/>
+    <img src="/images/research/slope28.gif" alt="" width="200"/>
+    <img src="/images/research/slopema2.png" alt="" width="200"/><br>
     </center>
   <p> 
 Description<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read 
@@ -188,20 +189,17 @@ more</a>.</p>
   <div style="width:800px;text-align:justify;">
     <center><h2 id="ResearchFlow">Thermal cracking simulation</h2></center>
     <h3>TM model</h3>
-      <center>
-      <div style="width:50%; height:400px; float:left">
+      <div style="height:500px; float:left">
         <img src="/images/research/TM0.png" alt=""/>
       </div>
-      <div style="width:50%; height: 150px; float:right">
+      <div style="height: 150px; float:right">
         <img src="/images/research/TM1.png" alt=""/>
       </div>
-      <div style="width:50%; height: 150px; float:right">
+      <div style="height: 150px; float:right">
         <img src="/images/research/TM2.GIF" alt=""/> <br>
       </div>  
-      </center>
-      <p> <br>
-      Description<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.
-      </p>
+      <p>
+      Description<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.  </p>
     <h3>Anisotropoc model</h3>
       <center>
       <img src="/images/research/TM24.png" alt="" width="200" style="display:inline-block;vertical-align:top;"/>
