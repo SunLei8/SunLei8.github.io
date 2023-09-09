@@ -116,8 +116,8 @@ html {
     <center><h2 id="ResearchSlope">Rock slope stability analysis</h2> </center>
     <h3>Rock slope</h3>
       <center>
-      <img src="/images/research/slope1.gif" alt="" width="300"/>
-      <img src="/images/research/slope2.gif" alt="" width="300" height="215"/><br>
+      <img src="/images/research/slope1.gif" alt="" height="200"/>
+      <img src="/images/research/slope2.gif" alt="" height="200"/><br>
       </center>
     <p> 
     Description<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.</p>
@@ -148,9 +148,9 @@ html {
   <h3>Case study: Majiagou slope</h3>
     <center>
     <img src="/images/research/slopema.png" alt="" width="200"/>
-    <img src="/images/research/slopema2.png" alt="" width="200"/><br>
     <img src="/images/research/slope29.gif" alt="" width="200"/>
     <img src="/images/research/slope28.gif" alt="" width="200"/><br>
+    <img src="/images/research/slopema2.png" alt="" width="200"/>
     </center>
   <p> 
 Description<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read 
@@ -201,11 +201,11 @@ more</a>.</p>
     <h3>Anisotropoc model</h3>
       <center>
       <img src="/images/research/TM24.png" alt="" width="200"/>
-      <img src="/images/research/TM241.gif" alt="" height="170" style="display:inline-block;vertical-align:top;"/>
+      <img src="/images/research/TM241.gif" alt="" width="195" style="display:inline-block;vertical-align:top;"/>
       <img src="/images/research/TM242.gif" alt="" width="170" style="display:inline-block;vertical-align:top;"/>
       <br> isotropic model <br>
       <img src="/images/research/TM23.png" alt="" width="200"/>
-      <img src="/images/research/TM231.gif" alt="" height="170" style="display:inline-block;vertical-align:top;"/>
+      <img src="/images/research/TM231.gif" alt="" width="195" style="display:inline-block;vertical-align:top;"/>
       <img src="/images/research/TM232.gif" alt="" width="170" style="display:inline-block;vertical-align:top;"/>
       <br> anisotropic model <br>
       </center>
@@ -294,13 +294,13 @@ more</a>.</p>
     Description<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.</p>
       <h3>FDEM</h3>
       <center>
-      <img src="/images/research/HF1.png" alt="" height="300"/>
-      <img src="/images/research/HF1.gif" alt="" height="300"/>
-      <img src="/images/research/HF2.gif" alt="" height="300"/>
-      <img src="/images/research/hf2.png" alt="" height="300"/>
+      <img src="/images/research/HF1.png" alt="" height="100"/>
+      <img src="/images/research/HF1.gif" alt="" height="100"/>
+      <img src="/images/research/HF2.gif" alt="" height="100"/>
+      <img src="/images/research/hf2.png" alt="" height="100"/>
       <br>
-      <img src="/images/research/hf22.png" alt="" height="250" style="display:inline-block;vertical-align:top;"/>
-      <img src="/images/research/hf22.gif" alt="" height="210" style="display:inline-block;vertical-align:top;"/>
+      <img src="/images/research/hf22.png" alt="" height="80" style="display:inline-block;vertical-align:top;"/>
+      <img src="/images/research/hf22.gif" alt="" height="70" style="display:inline-block;vertical-align:top;"/>
       </center>
     <p> 
     Description<a href="https://doi.org/10.1016/j.ijrmms.2023.105392" target="_blank">Read more</a>.</p>
