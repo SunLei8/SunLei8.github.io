@@ -37,7 +37,7 @@ header:
   padding: 0px 0px;
 }
 
-@media screen and (max-height: 500px) {
+@media screen and (/*max-height: 500px*/) {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
 }
