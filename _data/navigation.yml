@@ -9,8 +9,8 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-- title: "Global FDEM 2022"
-  url: /fdem2022/
+  - title: "Global FDEM 2022"
+    url: /globalfdem2022/
 
 #  - title: "Software"
 #    url: /software/
