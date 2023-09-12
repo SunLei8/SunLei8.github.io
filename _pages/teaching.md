@@ -1,7 +1,6 @@
 ---
 permalink: /teaching/
 title: "Teaching"
-author_profile: true
 ---
 
 Research plays a central role in my teaching as students improve their
