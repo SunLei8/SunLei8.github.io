@@ -1,6 +1,7 @@
 ---
 permalink: /contact us/
 title: "Contact Us"
+author_profile: true
 ---
 
 <div style="width:1100px; height:400">
