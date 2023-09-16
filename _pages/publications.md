@@ -23,6 +23,8 @@ author_profile: true
 
 
 ## 2023
+* **Sun L**, Tang X, Li M, Abdelaziz A, Aboayanah K,Liu Q, Grasselli G.Flow simulation in 3D fractured porous medium using a generalized pipe-based cell-centered finite volume model with local grid refinement. Geomechanics for Energy and the Environment, 100505. <a href="https://www.sciencedirect.com/science/article/pii/S2352380823000746"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+
 * Xu C, Liu Q, Tang X, **Sun L**, Deng P, Liu H. Dynamic stability analysis of jointed rock slopes using the combined finite-discrete element method (FDEM). Computers and Geotechnics 2023;160(4):105556. <a href="https://www.sciencedirect.com/science/article/pii/S0266352X23003130?via%3Dihub"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 
 * **Sun L**, Tang X, Abdelaziz A, Liu Q, Grasselli G. Stability analysis of reservoir slopes under fluctuating water levels using the combined finite-discrete element method. Acta Geotech. 2023;52(3):561. <a href="https://link.springer.com/article/10.1007/s11440-023-01895-4"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
