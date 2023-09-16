@@ -50,5 +50,5 @@ My [research interests](research) lie in THMC coupling modelling and computation
 &nbsp;
 
 <centre>
-    <img src="/images/Ulogo.png" high = 18> 
+    <img src="/images/Ulogo.png" high = 15> 
 <centre>
