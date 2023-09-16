@@ -309,7 +309,7 @@ style="display:inline-block;vertical-align:middle;"/>
 <!-- hydraulic fracturing -->
 <div class="container">
   <div style="width:800px;text-align:justify;">
-    <center><h2 id="ResearchHF">hydraulic fracturing</h2> </center>
+    <center><h2 id="ResearchHF">Hydraulic fracturing</h2> </center>
       <h3>FEMM method</h3>
       <center>
       <img src="/images/research/J0.gif" alt="" width="180" style="display:inline-block;vertical-align:middle;"/>

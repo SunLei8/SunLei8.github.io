@@ -22,6 +22,8 @@ My [research interests](research) lie in THMC coupling modelling and computation
 
 <div style="height:200px;width:750px;overflow:auto;">
 
+  <li> [09/2023] <a href="https://www.sciencedirect.com/science/article/pii/S2352380823000746">New paper</a> on Flow simulation in 3D fractured porous medium. </li>
+
   <li>  [07/2023] Congratulations to Dr Sun's successful delivery of the presentation in the 
   <a href="https://17.usnccm.org/">17th U. S. National Congress on Computational Mechanics</a>. </li>
 
@@ -48,6 +50,5 @@ My [research interests](research) lie in THMC coupling modelling and computation
 &nbsp;
 
 <centre>
-    <img src="/images/Ulogo.png" style = "float:right" 
-high = 20> 
+    <img src="/images/Ulogo.png" high = 18> 
 <centre>
