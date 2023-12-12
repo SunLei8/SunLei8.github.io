@@ -23,7 +23,6 @@ author_profile: true
 
 
 ## 2023
-
 * **Sun L**, Tang X, Aboayanah K, Zhao Q, Liu Q, Grasselli G.A coupled cryogenic thermo-hydro-mechanical model for frozen medium: Theory and implementation in FDEM. Journal of Rock Mechanics and Geotechnical Engineering. <a href="https://www.sciencedirect.com/science/article/pii/S1674775523002809"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 
 * **Sun L**, Li M, Abdelaziz A, Tang X,Liu Q, Grasselli G.An efficient 3D cell-based discrete fracture-matrix flow model for digitally captured fracture networks. International Journal of Coal Science & Technology, 10, 70. <a href="https://link.springer.com/article/10.1007/s40789-023-00625-1"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
