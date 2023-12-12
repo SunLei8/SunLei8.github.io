@@ -23,6 +23,11 @@ author_profile: true
 
 
 ## 2023
+
+* **Sun L**, Tang X, Aboayanah K, Zhao Q, Liu Q, Grasselli G.A coupled cryogenic thermo-hydro-mechanical model for frozen medium: Theory and implementation in FDEM. Journal of Rock Mechanics and Geotechnical Engineering. <a href="https://www.sciencedirect.com/science/article/pii/S1674775523002809"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+
+* **Sun L**, Li M, Abdelaziz A, Tang X,Liu Q, Grasselli G.An efficient 3D cell-based discrete fracture-matrix flow model for digitally captured fracture networks. International Journal of Coal Science & Technology, 10, 70. <a href="https://link.springer.com/article/10.1007/s40789-023-00625-1"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+
 * **Sun L**, Tang X, Li M, Abdelaziz A, Aboayanah K,Liu Q, Grasselli G.Flow simulation in 3D fractured porous medium using a generalized pipe-based cell-centered finite volume model with local grid refinement. Geomechanics for Energy and the Environment, 100505. <a href="https://www.sciencedirect.com/science/article/pii/S2352380823000746"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 
 * Xu C, Liu Q, Tang X, **Sun L**, Deng P, Liu H. Dynamic stability analysis of jointed rock slopes using the combined finite-discrete element method (FDEM). Computers and Geotechnics 2023;160(4):105556. <a href="https://www.sciencedirect.com/science/article/pii/S0266352X23003130?via%3Dihub"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
